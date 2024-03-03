@@ -43,7 +43,7 @@
 <div class="flex flex-col justify-center items-center p-4 transition max-h-screen">
   <h1 class="text-3xl font-bold">Question {currentQuestion + 1}</h1>
 
-  <div class="flex flex-col justify-center items-center dark:bg-neutral-900 bg-neutral-200 shadow rounded px-10 py-5 md:w-[75%] transition">
+  <div class="flex flex-col justify-center items-center dark:bg-neutral-900 bg-neutral-100 shadow rounded px-10 py-5 md:w-[75%] transition">
     {#if currentQuestion < totalQuestions}
       <QuestionCard question={questions[currentQuestion]} {callback} />
     {:else}

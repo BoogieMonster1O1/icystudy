@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-    @apply bg-neutral-100 dark:bg-black dark:text-white transition
+    @apply bg-white dark:bg-black dark:text-white transition
 }
