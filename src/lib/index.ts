@@ -1,1 +1,10 @@
-// place files you want to import through the `$lib` alias in this folder.
+import json from './out.json'
+
+export default json;
+
+export interface Question {
+  correct: number;
+  count: number;
+  options: string[];
+  question: string;
+}
