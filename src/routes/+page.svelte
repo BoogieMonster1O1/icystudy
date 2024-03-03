@@ -2,6 +2,7 @@
   import { type Question } from '$lib';
   import QuestionCard from '$lib/QuestionCard.svelte';
   import { browser } from '$app/environment';
+  import Timer from '$lib/Timer.svelte';
 
   export let data: { data: [Question]};
 
@@ -63,5 +64,6 @@
 
     <h2 class="text-xl font-bold">Score: {score} / {answeredQuestions}</h2>
     <h2 class="text-xl font-bold">Percentage: {percent}%</h2>
+    <span class="text-xl"><Timer /></span>
   </div>
 </div>
