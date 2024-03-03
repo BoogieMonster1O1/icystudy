@@ -1,11 +1,13 @@
 <script lang="ts">
   import { type Question } from '$lib';
+  import { browser } from '$app/environment';
 
   export let question: Question;
   export let callback: (value: boolean) => void;
 
   $: selectedOption = question.count - question.count - 1
   let letterMap = ['A', 'B', 'C', 'D'];
+  let smallLetterMap = ['a', 'b', 'c', 'd'];
 
   function selectOption(optionIndex: number) {
     if (selectedOption !== -1) {
@@ -13,6 +15,17 @@
     }
     selectedOption = optionIndex;
     callback(optionIndex === question.correct);
+  }
+
+  if (browser) {
+    for (let i = 0; i < question.options.length; i++) {
+      let letter = smallLetterMap[i];
+      window.addEventListener('keydown', (e) => {
+        if (e.key === letter && selectedOption === -1) {
+          selectOption(i);
+        }
+      });
+    }
   }
 </script>
 
@@ -23,7 +36,7 @@
 
   {#each question.options as option, index}
     <button
-      class="mt-2 px-4 py-2 rounded border border-gray-400 transition duration-100"
+      class="mt-2 px-4 py-2 rounded border border-gray-400 transition"
       class:selected={selectedOption === index}
       class:correct={selectedOption !== -1 && question.correct === index}
       class:incorrect={selectedOption !== -1 && selectedOption !== question.correct && selectedOption === index}
