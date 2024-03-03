@@ -1,0 +1,5581 @@
+[
+  {
+    "options" : [
+      "United Kingdom",
+      "France",
+      "United States",
+      "Russia"
+    ],
+    "question" : "Fundamental Rights in the Indian Constitution are borrowed from which country's constitution?",
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Part I",
+      "Part II",
+      "Part III",
+      "Part IV"
+    ],
+    "question" : "Which part of the Indian Constitution deals with Fundamental Rights?"
+  },
+  {
+    "question" : "Which article guarantees equality before the law and prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+    "correct" : 0,
+    "options" : [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 24"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Freedom of speech and expression is guaranteed under which article of the Indian Constitution?",
+    "count" : 4,
+    "options" : [
+      "Article 15",
+      "Article 17",
+      "Article 19",
+      "Article 21A"
+    ],
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right to Religion"
+    ],
+    "question" : "Which Fundamental Right ensures protection against arrest and detention in certain cases?",
+    "correct" : 2
+  },
+  {
+    "correct" : 1,
+    "count" : 4,
+    "question" : "Which article grants the right to education as a Fundamental Right for children between the ages of 6 and 14 years?",
+    "options" : [
+      "Article 21",
+      "Article 21A",
+      "Article 22",
+      "Article 24"
+    ]
+  },
+  {
+    "question" : "Which Fundamental Right allows citizens to move freely throughout the territory of India and reside in any part of the country?",
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Constitutional Remedies"
+    ],
+    "correct" : 1
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Life and Personal Liberty"
+    ],
+    "count" : 4,
+    "question" : "The right to form associations or unions is a part of which Fundamental Right?"
+  },
+  {
+    "correct" : 1,
+    "question" : "Which article prohibits forced labor and ensures that no child below the age of 14 years is employed in any hazardous job?",
+    "options" : [
+      "Article 21A",
+      "Article 23",
+      "Article 25",
+      "Article 30"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Which Fundamental Right is also known as the \"Heart and Soul of the Constitution\"?",
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      "Right to Freedom",
+      "Right to Equality",
+      "Right to Constitutional Remedies",
+      "Right against Exploitation"
+    ]
+  },
+  {
+    "correct" : 0,
+    "question" : "Fundamental Rights are suspended during a National Emergency. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2
+  },
+  {
+    "options" : [
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment",
+      "97th Amendment"
+    ],
+    "question" : "The right to property was removed from the list of Fundamental Rights and replaced as a legal right under which amendment to the Constitution?",
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "correct" : 2,
+    "question" : "Which Fundamental Right guarantees protection of life and personal liberty except according to a procedure established by law?",
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right against Exploitation"
+    ]
+  },
+  {
+    "correct" : 2,
+    "count" : 4,
+    "question" : "Which Fundamental Right ensures that no person shall be deprived of his\/her property except by authority of law?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Property",
+      "Right against Exploitation"
+    ]
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Education",
+      "Right to Minority Rights"
+    ],
+    "correct" : 1,
+    "question" : "Which Fundamental Right guarantees protection of cultural and educational rights of religious and linguistic minorities?"
+  },
+  {
+    "question" : "The Fundamental Right to protection from double jeopardy is available under which article of the Indian Constitution?",
+    "correct" : 1,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 2,
+    "question" : "Which Fundamental Right provides protection against arrest and detention in certain cases?",
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right to Religion"
+    ]
+  },
+  {
+    "options" : [
+      "Article 21",
+      "Article 31",
+      "Article 32",
+      "Article 33"
+    ],
+    "correct" : 2,
+    "question" : "Which article ensures the right to constitutional remedies for enforcing Fundamental Rights?",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "National Security",
+      "Economic Growth",
+      "Social Welfare",
+      "Public Order"
+    ],
+    "correct" : 3,
+    "question" : "The Fundamental Right to practice any profession or to carry on any occupation, trade, or business is subject to reasonable restrictions in the interest of:",
+    "count" : 4
+  },
+  {
+    "question" : "Which Fundamental Right guarantees protection against exploitation of any kind, such as human trafficking and child labor?",
+    "correct" : 3,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right against Exploitation"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The right to vote is NOT a Fundamental Right; it is only a statutory right given to citizens. (True\/False)",
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "count" : 4,
+    "question" : "Which Fundamental Right allows citizens to move to any part of the country, reside and settle in any part, and acquire property?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Residence"
+    ],
+    "correct" : 3
+  },
+  {
+    "question" : "The Fundamental Right to protection against discrimination on grounds of religion, race, caste, sex, or place of birth is available to:",
+    "options" : [
+      "Only citizens of India",
+      "All residents of India, irrespective of citizenship",
+      "Only children below 18 years of age",
+      "Only government officials and employees"
+    ],
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "The Constitution of India guarantees the right to free and compulsory education to children up to the age of:",
+    "options" : [
+      "10 years",
+      "12 years",
+      "14 years",
+      "16 years"
+    ],
+    "correct" : 2
+  },
+  {
+    "question" : "Which Fundamental Right guarantees the protection and preservation of the language, script, or culture of minorities in India?",
+    "count" : 4,
+    "options" : [
+      "Right to Freedom of Religion",
+      "Right to Education",
+      "Right to Cultural and Educational Rights",
+      "Right to Equality"
+    ],
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Article 20",
+      "Article 21",
+      "Article 22",
+      "Article 23"
+    ],
+    "question" : "The Fundamental Right to protection against ex-post facto laws is available under which article of the Indian Constitution?",
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right to Constitutional Remedies"
+    ],
+    "count" : 4,
+    "question" : "Which Fundamental Right ensures protection of the rights of the accused, including the right to be informed of the grounds of arrest?",
+    "correct" : 2
+  },
+  {
+    "question" : "The Fundamental Right to protection against compelled self-incrimination is available under which article of the Indian Constitution?",
+    "count" : 4,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "correct" : 1
+  },
+  {
+    "question" : "Which Fundamental Right allows citizens to assemble peacefully without arms?",
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Assembly"
+    ]
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 0,
+    "question" : "The Fundamental Right to protection of life and personal liberty is available to both citizens and non-citizens of India. (True\/False)"
+  },
+  {
+    "correct" : 2,
+    "question" : "Which Fundamental Right guarantees the right to protection against arrest and detention in case of violation of laws during a state of emergency?",
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right to Constitutional Remedies"
+    ]
+  },
+  {
+    "question" : "The Fundamental Right to protection against trafficking and forced labor is available to:",
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      "Only women and children",
+      "Only citizens of India",
+      "All residents of India, irrespective of citizenship",
+      "Only government officials and employees"
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against arbitrary arrest and detention by the police?",
+    "options" : [
+      "Article 21",
+      "Article 22",
+      "Article 23",
+      "Article 24"
+    ],
+    "correct" : 1
+  },
+  {
+    "question" : "Which Fundamental Right allows citizens to move freely throughout the territory of India and to reside and settle in any part of the country?",
+    "correct" : 3,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Residence"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Only citizens of India",
+      "Only children below 18 years of age",
+      "All residents of India, irrespective of citizenship",
+      "Only government officials and employees"
+    ],
+    "count" : 4,
+    "question" : "The Fundamental Right to protection against discrimination on the grounds of religion, race, caste, sex, or place of birth is available to:",
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "correct" : 3,
+    "options" : [
+      "Article 17",
+      "Article 20",
+      "Article 23",
+      "Article 24"
+    ],
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on the employment of children in hazardous occupations under which article?"
+  },
+  {
+    "options" : [
+      "Article 19",
+      "Article 21A",
+      "Article 22",
+      "Article 25"
+    ],
+    "question" : "The Constitution of India guarantees the right to elementary education to all children between the ages of 6 and 14 years under which article?",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Only women",
+      "Only Scheduled Castes and Scheduled Tribes",
+      "All citizens of India",
+      "Only government officials and employees"
+    ],
+    "count" : 4,
+    "question" : "The Fundamental Right to protection against discrimination in public employment is available to:",
+    "correct" : 2
+  },
+  {
+    "question" : "Which article guarantees the right to protection against ex-post facto laws, which means laws that apply retroactively and penalize an act that was not illegal at the time it was committed?",
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ]
+  },
+  {
+    "options" : [
+      "Article 27",
+      "Article 29",
+      "Article 31",
+      "Article 34"
+    ],
+    "count" : 4,
+    "correct" : 1,
+    "question" : "The Fundamental Right to protection of cultural and educational rights is available to all religious and linguistic minorities under which article?"
+  },
+  {
+    "count" : 4,
+    "question" : "Which Fundamental Right provides protection against exploitation of any kind and prohibits trafficking in human beings and forced labor?",
+    "correct" : 3,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right against Exploitation"
+    ]
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "question" : "The right to education was added as a Fundamental Right by which amendment to the Indian Constitution?",
+    "options" : [
+      "42nd Amendment",
+      "44th Amendment",
+      "86th Amendment",
+      "93rd Amendment"
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "Which Fundamental Right guarantees protection against untouchability and forbids its practice in any form?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "correct" : 3
+  },
+  {
+    "question" : "The right to privacy is explicitly recognized as a Fundamental Right under which article of the Indian Constitution?",
+    "correct" : 2,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 24"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "The Fundamental Right to protection against forced labor is guaranteed under which article of the Indian Constitution?",
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Article 21",
+      "Article 22",
+      "Article 23",
+      "Article 24"
+    ]
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection of life and personal liberty is suspended during a National Emergency. (True\/False)",
+    "correct" : 0,
+    "count" : 2
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Constitutional Remedies"
+    ],
+    "question" : "Which Fundamental Right guarantees the right to protection of interests of scheduled tribes to conserve their culture and heritage?",
+    "correct" : 3
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right to Constitutional Remedies"
+    ],
+    "question" : "The right to protection against illegal detention is a part of which Fundamental Right?"
+  },
+  {
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against retrospective punishment for an act that was not an offense when committed?",
+    "correct" : 1,
+    "count" : 4,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ]
+  },
+  {
+    "count" : 2,
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The right to protection against discrimination on the grounds of religion, race, caste, sex, or place of birth is available to non-citizens of India. (True\/False)"
+  },
+  {
+    "options" : [
+      "12 years",
+      "14 years",
+      "16 years",
+      "18 years"
+    ],
+    "correct" : 1,
+    "question" : "The Fundamental Right to protection against exploitation prohibits child labor in any form up to the age of:",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right to Constitutional Remedies"
+    ],
+    "correct" : 3,
+    "count" : 4,
+    "question" : "Which Fundamental Right guarantees the right to protection against double jeopardy, which means being tried twice for the same offense?"
+  },
+  {
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against discrimination in public places on the grounds of religion, race, caste, sex, or place of birth is available to all citizens of India. (True\/False)",
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Life and Personal Liberty",
+      "Right to Constitutional Remedies"
+    ],
+    "question" : "Which Fundamental Right provides the right to constitutional remedies such as writs for the enforcement of Fundamental Rights?"
+  },
+  {
+    "count" : 2,
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection against forced labor applies only to employment in factories or mines. (True\/False)"
+  },
+  {
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against compelled self-incrimination?",
+    "correct" : 1
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection against discrimination on the grounds of religion, race, caste, sex, or place of birth is available to foreigners visiting India. (True\/False)",
+    "count" : 2
+  },
+  {
+    "count" : 2,
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The right to protection against exploitation includes a ban on the employment of children below the age of 14 years in any kind of work. (True\/False)"
+  },
+  {
+    "question" : "Which Fundamental Right ensures protection of the interests of any backward class of citizens for the advancement of socially and educationally backward classes of citizens or for SCs\/STs?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "count" : 2,
+    "correct" : 1,
+    "question" : "The Fundamental Right to protection against exploitation applies only to bonded labor and not to any other form of forced labor. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "count" : 2,
+    "question" : "The right to protection against exploitation includes a ban on trafficking in human beings and forced labor. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "question" : "Which Fundamental Right guarantees protection of the interests of any Scheduled Caste or Scheduled Tribe to advance their social and educational status?",
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 1,
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against untouchability is available only to Scheduled Castes. (True\/False)"
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 18"
+    ],
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against discrimination in public employment on grounds of religion, race, caste, sex, or place of birth?"
+  },
+  {
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The right to protection against exploitation includes a ban on employment of children below the age of 18 years in hazardous jobs. (True\/False)",
+    "correct" : 1
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "question" : "Which Fundamental Right ensures protection of the interests of minorities to conserve their distinct language, script, or culture?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Cultural and Educational Rights"
+    ]
+  },
+  {
+    "correct" : 0,
+    "question" : "The Fundamental Right to protection against discrimination on the grounds of religion, race, caste, sex, or place of birth applies to all citizens of India. (True\/False)",
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "options" : [
+      "Article 21",
+      "Article 22",
+      "Article 23",
+      "Article 24"
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against exploitation of children in factories or mines?"
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The right to protection against exploitation prohibits child labor in any form up to the age of 16 years. (True\/False)",
+    "count" : 2
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Cultural and Educational Rights"
+    ],
+    "count" : 4,
+    "question" : "Which Fundamental Right guarantees protection of the rights of religious and linguistic minorities to establish and administer educational institutions of their choice?",
+    "correct" : 3
+  },
+  {
+    "question" : "The Fundamental Right to protection against exploitation applies only to women and children. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      "Article 13",
+      "Article 15",
+      "Article 17",
+      "Article 19"
+    ],
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against discrimination in the use of public places based on religion, race, caste, sex, or place of birth?"
+  },
+  {
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on employment of children below the age of 12 years in any form of work. (True\/False)",
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "correct" : 0,
+    "question" : "Which Fundamental Right guarantees protection against discrimination on the grounds of religion, race, caste, sex, or place of birth in access to shops, public restaurants, hotels, and places of public entertainment?",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on the employment of children below the age of 16 years in any occupation. (True\/False)",
+    "correct" : 1
+  },
+  {
+    "question" : "The Fundamental Right to protection against exploitation applies to both citizens and non-citizens of India. (True\/False)",
+    "count" : 2,
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against ex-post facto laws, which means being punished for an act that was not an offense when committed?",
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 1,
+    "count" : 2,
+    "question" : "The right to protection against exploitation prohibits child labor in any form up to the age of 16 years. (True\/False)"
+  },
+  {
+    "count" : 4,
+    "question" : "Which Fundamental Right guarantees protection against discrimination in the matter of public appointments on grounds of religion, race, caste, sex, or place of birth?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "correct" : 0
+  },
+  {
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection against exploitation applies only to women and children. (True\/False)",
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against retrospective punishment for an act that was not an offense when committed?"
+  },
+  {
+    "question" : "The right to protection against exploitation includes a ban on the employment of children below the age of 18 years in hazardous jobs. (True\/False)",
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2
+  },
+  {
+    "correct" : 3,
+    "question" : "Which Fundamental Right ensures protection of the rights of religious and linguistic minorities to conserve their distinct language, script, or culture?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Cultural and Educational Rights"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0,
+    "question" : "The Fundamental Right to protection against discrimination on the grounds of religion, race, caste, sex, or place of birth is available to all citizens of India. (True\/False)",
+    "count" : 2
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "question" : "Which Fundamental Right guarantees the right to protection of the interests of any Scheduled Caste or Scheduled Tribe to advance their social and educational status?",
+    "correct" : 3
+  },
+  {
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against untouchability is available only to Scheduled Castes. (True\/False)",
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 18"
+    ],
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against discrimination in public employment on grounds of religion, race, caste, sex, or place of birth?",
+    "count" : 4
+  },
+  {
+    "count" : 2,
+    "correct" : 1,
+    "question" : "The right to protection against exploitation includes a ban on employment of children below the age of 18 years in hazardous jobs. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "correct" : 3,
+    "question" : "Which Fundamental Right ensures protection of the interests of minorities to conserve their distinct language, script, or culture?",
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Cultural and Educational Rights"
+    ]
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection against discrimination on the grounds of religion, race, caste, sex, or place of birth applies to all citizens of India. (True\/False)",
+    "count" : 2
+  },
+  {
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on forced labor or compulsory service for public purposes. (True\/False)",
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0
+  },
+  {
+    "question" : "Which Fundamental Right guarantees the right to protection against discrimination in the use of wells, tanks, bathing ghats, roads, and places of public resort maintained by the government?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against exploitation is available to both citizens and non-citizens of India. (True\/False)",
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against conviction for offenses that were not punishable when they were committed?"
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The right to protection against exploitation prohibits child labor in any form up to the age of 12 years. (True\/False)",
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Cultural and Educational Rights"
+    ],
+    "count" : 4,
+    "question" : "Which Fundamental Right ensures protection of the rights of minorities to establish and administer educational institutions of their choice?"
+  },
+  {
+    "question" : "The Fundamental Right to protection against discrimination in public employment applies to both the Union government and the State governments. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against retrospective punishment for an act that was not an offense when committed?"
+  },
+  {
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The right to protection against exploitation includes a ban on the employment of children below the age of 18 years in hazardous jobs. (True\/False)",
+    "correct" : 1
+  },
+  {
+    "count" : 4,
+    "question" : "Which Fundamental Right guarantees the right to protection of the interests of any Scheduled Tribe to conserve their culture and heritage?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Constitutional Remedies"
+    ],
+    "correct" : 3
+  },
+  {
+    "correct" : 1,
+    "question" : "The Fundamental Right to protection against exploitation prohibits child labor in any form up to the age of 16 years. (True\/False)",
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against discrimination in the matter of access to shops, public restaurants, hotels, and places of public entertainment on grounds of religion, race, caste, sex, or place of birth?",
+    "count" : 4,
+    "options" : [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 19"
+    ],
+    "correct" : 0
+  },
+  {
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on the employment of children below the age of 16 years in any occupation. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 1,
+    "count" : 2
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "count" : 4,
+    "question" : "Which Fundamental Right guarantees the right to protection of the interests of any Scheduled Caste to advance their social and educational status?"
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 1,
+    "question" : "The Fundamental Right to protection against untouchability is available only to Scheduled Castes. (True\/False)",
+    "count" : 2
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "question" : "Which Fundamental Right guarantees the right to protection against discrimination in employment or appointment to any office under the State on grounds of religion, race, caste, sex, or place of birth?",
+    "correct" : 0,
+    "count" : 4
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on the employment of children below the age of 14 years in factories or mines. (True\/False)",
+    "count" : 2
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against conviction for any offense except for violation of a law in force at the time of the act?"
+  },
+  {
+    "question" : "The right to protection against exploitation applies only to children below the age of 16 years. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Cultural and Educational Rights"
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "Which Fundamental Right ensures protection of the rights of minorities to establish and administer educational institutions of their choice without discrimination?"
+  },
+  {
+    "question" : "The Fundamental Right to protection against discrimination in public employment is applicable only to the Union government and not to State governments. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against retrospective punishment for an act that was not an offense when committed?"
+  },
+  {
+    "question" : "The right to protection against exploitation includes a ban on child labor in any form up to the age of 18 years. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 1,
+    "count" : 2
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Constitutional Remedies"
+    ],
+    "correct" : 3,
+    "question" : "Which Fundamental Right guarantees the right to protection of the interests of any Scheduled Tribe to conserve their culture and heritage?",
+    "count" : 4
+  },
+  {
+    "question" : "The Fundamental Right to protection against exploitation prohibits child labor in any form up to the age of 18 years. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against discrimination in access to shops, public restaurants, hotels, and places of public entertainment on grounds of religion, race, caste, sex, or place of birth?",
+    "options" : [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 19"
+    ],
+    "correct" : 0
+  },
+  {
+    "count" : 2,
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on the employment of children below the age of 18 years in any occupation. (True\/False)"
+  },
+  {
+    "question" : "Which Fundamental Right guarantees the right to protection of the interests of any Scheduled Caste to advance their social and educational status?",
+    "count" : 4,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Fundamental Right to protection against untouchability is available to all citizens of India. (True\/False)",
+    "count" : 2,
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "count" : 4,
+    "correct" : 1,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against conviction for any act that was not an offense when committed, and no person shall be punished twice for the same offense?"
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "question" : "Which Fundamental Right guarantees protection of the interests of any backward class of citizens for the advancement of socially and educationally backward classes of citizens or for Scheduled Castes and Scheduled Tribes?",
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on child labor in any form up to the age of 16 years. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against deprivation of personal liberty except according to the procedure established by law?",
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ]
+  },
+  {
+    "question" : "The right to protection against exploitation applies only to children below the age of 12 years. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "question" : "Which Fundamental Right ensures protection of the rights of religious and linguistic minorities to establish and administer educational institutions of their choice without discrimination?",
+    "correct" : 3,
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Cultural and Educational Rights"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against discrimination in public employment is applicable only to the State governments and not to the Union government. (True\/False)",
+    "correct" : 1,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "count" : 4,
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against conviction for any act that was not an offense when committed, and no person shall be punished twice for the same offense?"
+  },
+  {
+    "correct" : 1,
+    "question" : "The right to protection against exploitation includes a ban on child labor in any form up to the age of 18 years. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2
+  },
+  {
+    "question" : "Which Fundamental Right guarantees the right to protection of the interests of any Scheduled Tribe to conserve their culture and heritage?",
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Constitutional Remedies"
+    ],
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "count" : 2,
+    "question" : "The Fundamental Right to protection against exploitation prohibits child labor in any form up to the age of 12 years. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 1
+  },
+  {
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 19"
+    ],
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against discrimination in access to wells, tanks, bathing ghats, roads, and places of public resort maintained by the government?"
+  },
+  {
+    "question" : "The Fundamental Right to protection against exploitation includes a ban on the employment of children below the age of 18 years in any occupation. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Social Equality"
+    ],
+    "correct" : 3,
+    "count" : 4,
+    "question" : "Which Fundamental Right guarantees the right to protection of the interests of any Scheduled Caste to advance their social and educational status?"
+  },
+  {
+    "question" : "The Fundamental Right to protection against untouchability is available to all residents of India, irrespective of caste. (True\/False)",
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2
+  },
+  {
+    "question" : "Which article of the Indian Constitution guarantees the right to protection against conviction for any act that was not an offense when committed, and no person shall be punished twice for the same offense?",
+    "correct" : 1,
+    "options" : [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "The Preamble of the Indian Constitution is based on the ideology of:",
+    "options" : [
+      "Socialism",
+      "Secularism",
+      "Sovereignty",
+      "Justice"
+    ],
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "question" : "The Preamble of the Indian Constitution begins with the words:",
+    "options" : [
+      "\"We, the People of India...\"",
+      "\"In the name of God...\"",
+      "\"India, my country...\"",
+      "\"Liberty, Equality, Fraternity...\""
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "question" : "The Preamble declares India to be a:",
+    "options" : [
+      "Federal Republic",
+      "Parliamentary Democracy",
+      "Sovereign Socialist Secular Democratic Republic",
+      "Socialist Welfare State"
+    ],
+    "correct" : 2,
+    "count" : 4
+  },
+  {
+    "correct" : 0,
+    "question" : "The term \"Socialist\" in the Preamble was added by which Constitutional Amendment?",
+    "options" : [
+      "42nd Amendment",
+      "44th Amendment",
+      "76th Amendment",
+      "86th Amendment"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Providing free education to all",
+      "Promoting a sense of unity and brotherhood among the people of India",
+      "Ensuring equal distribution of resources",
+      "Establishing a welfare state"
+    ],
+    "correct" : 1,
+    "question" : "The objective of \"Fraternity\" in the Preamble means:",
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "26th January 1950",
+      "15th August 1947",
+      "26th November 1949",
+      "30th January 1948"
+    ],
+    "question" : "The Preamble was adopted by the Constituent Assembly on:",
+    "correct" : 2
+  },
+  {
+    "count" : 2,
+    "question" : "The Preamble of the Indian Constitution is not enforceable in courts of law. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0
+  },
+  {
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      "Economic prosperity",
+      "Religious freedom",
+      "Political and social justice",
+      "Technological advancement"
+    ],
+    "question" : "The Preamble declares India to be a democratic country to ensure:"
+  },
+  {
+    "count" : 4,
+    "question" : "The idea of \"Unity of the Nation\" in the Preamble signifies:",
+    "correct" : 3,
+    "options" : [
+      "The unity of all political parties",
+      "The unity of the three branches of government",
+      "The unity of all states and union territories",
+      "The unity of the people of India"
+    ]
+  },
+  {
+    "question" : "The Preamble serves as the guiding spirit and philosophy of the Indian Constitution. (True\/False)",
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0
+  },
+  {
+    "correct" : 1,
+    "count" : 4,
+    "question" : "The Preamble declares India to be a secular country to ensure:",
+    "options" : [
+      "Freedom of speech and expression",
+      "Freedom of religion and conscience",
+      "Equality before the law",
+      "Protection of cultural heritage"
+    ]
+  },
+  {
+    "options" : [
+      "Social justice",
+      "Economic justice",
+      "Political justice",
+      "Gender justice"
+    ],
+    "correct" : 3,
+    "count" : 4,
+    "question" : "The Preamble emphasizes the importance of \"Justice\" in three aspects. Which of the following is NOT one of them?"
+  },
+  {
+    "correct" : 1,
+    "question" : "The Preamble was incorporated into the Indian Constitution on the recommendation of the:",
+    "options" : [
+      "Cabinet Committee on Preamble",
+      "Constituent Assembly's drafting committee",
+      "British Parliament",
+      "United Nations"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 1,
+    "question" : "The Preamble of the Indian Constitution can be amended by:",
+    "options" : [
+      "A simple majority in the Parliament",
+      "A special majority in the Parliament and ratification by half of the state legislatures",
+      "A special majority in the Parliament and ratification by two-thirds of the state legislatures",
+      "Presidential ordinance"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "The Preamble of the Indian Constitution was inspired by the Preamble of the Constitution of which country?",
+    "options" : [
+      "United States of America",
+      "United Kingdom",
+      "France",
+      "Australia"
+    ],
+    "correct" : 0
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Freedom of religion",
+      "Separation of religion and state",
+      "Promotion of religious practices",
+      "Abolition of all religions"
+    ],
+    "count" : 4,
+    "question" : "The term \"Secular\" in the Preamble of the Indian Constitution means:"
+  },
+  {
+    "question" : "The Preamble of the Indian Constitution was enacted as a part of the Constitution on:",
+    "count" : 4,
+    "options" : [
+      "15th August 1947",
+      "26th January 1950",
+      "26th November 1949",
+      "9th December 1946"
+    ],
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Economic independence",
+      "Political independence",
+      "Social equality",
+      "Religious freedom"
+    ],
+    "correct" : 1,
+    "question" : "The Preamble declares India to be a sovereign country to ensure:"
+  },
+  {
+    "question" : "The Preamble of the Indian Constitution declares that the source of authority and power is derived from:",
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      "The President",
+      "The Prime Minister",
+      "The people of India",
+      "The judiciary"
+    ]
+  },
+  {
+    "options" : [
+      "Equal distribution of wealth",
+      "Political representation",
+      "Technological advancement",
+      "Cultural diversity"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "The Preamble declares India to be a democratic country to ensure:"
+  },
+  {
+    "question" : "The objectives of the Preamble are:",
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "Justiciable and enforceable",
+      "Non-justiciable and unenforceable",
+      "Justiciable but unenforceable",
+      "Non-justiciable but enforceable"
+    ]
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "Equality of opportunity",
+      "Equitable distribution of resources",
+      "Technological advancement",
+      "Promotion of private enterprises"
+    ],
+    "question" : "The Preamble declares India to be a socialist country to ensure:"
+  },
+  {
+    "question" : "The Preamble of the Indian Constitution does not mention:",
+    "correct" : 3,
+    "options" : [
+      "Liberty",
+      "Equality",
+      "Sovereignty",
+      "Fraternity"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 0,
+    "question" : "The Preamble of the Indian Constitution represents the aspirations and objectives of the people of India. (True\/False)",
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "question" : "The Preamble of the Indian Constitution was influenced by the philosophy of which prominent Indian leader?",
+    "correct" : 0
+  },
+  {
+    "question" : "The Preamble of the Indian Constitution was adopted without any amendment. (True\/False)",
+    "correct" : 0,
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "question" : "The term \"Justice\" in the Preamble signifies the need for:",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "Equality before the law",
+      "Equal distribution of resources",
+      "Judicial review of laws",
+      "Freedom of speech"
+    ]
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Preamble of the Indian Constitution is the introductory statement that explains the aims and objectives of the Constitution. (True\/False)",
+    "correct" : 0,
+    "count" : 2
+  },
+  {
+    "correct" : 0,
+    "question" : "The Preamble declares India to be a federal country to ensure:",
+    "options" : [
+      "Division of powers between the center and the states",
+      "Dominance of the central government",
+      "Sovereignty of the President",
+      "Autonomy of the judiciary"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "26th January 1949",
+      "26th November 1949",
+      "15th August 1947",
+      "9th December 1946"
+    ],
+    "question" : "The Indian Constitution was adopted on:",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "question" : "The Indian Constitution is classified as:",
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Federal",
+      "Unitary",
+      "Quasi-federal",
+      "Confederal"
+    ]
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Parliamentary Democracy",
+      "Socialist State",
+      "Federal Republic",
+      "Sovereign Socialist Secular Democratic Republic"
+    ],
+    "question" : "The preamble of the Indian Constitution declares India to be a:",
+    "correct" : 3
+  },
+  {
+    "question" : "The Indian Constitution borrowed the idea of the Directive Principles of State Policy from which country?",
+    "correct" : 1,
+    "options" : [
+      "United States of America",
+      "Ireland",
+      "France",
+      "United Kingdom"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "366",
+      "396",
+      "426",
+      "446"
+    ],
+    "question" : "The Indian Constitution is the longest written constitution in the world, consisting of how many articles?",
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Parliamentary",
+      "Presidential",
+      "Monarchical",
+      "Oligarchic"
+    ],
+    "correct" : 0,
+    "question" : "The Constitution of India provides for a ________ form of government."
+  },
+  {
+    "question" : "The Indian Constitution has how many Schedules that contain lists and other important information?",
+    "count" : 4,
+    "options" : [
+      "10",
+      "12",
+      "22",
+      "26"
+    ],
+    "correct" : 2
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Golak Nath vs. State of Punjab",
+      "Keshavananda Bharati vs. State of Kerala",
+      "Indira Gandhi vs. Raj Narain",
+      "Minerva Mills Ltd. vs. Union of India"
+    ],
+    "count" : 4,
+    "question" : "The concept of \"Basic Structure\" of the Constitution was established by the Supreme Court in which landmark case?"
+  },
+  {
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "Bicameral",
+      "Unicameral",
+      "Tricameral",
+      "Quadricameral"
+    ],
+    "question" : "The Indian Constitution provides for the establishment of a ______ system at the state level."
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Maharashtra",
+      "Gujarat",
+      "Tamil Nadu",
+      "Jammu and Kashmir"
+    ],
+    "correct" : 3,
+    "question" : "The Constitution of India grants special autonomous status to which state?"
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "question" : "The Indian Constitution guarantees Fundamental Rights under Part:",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Union List",
+      "Concurrent List"
+    ],
+    "correct" : 0,
+    "count" : 4,
+    "question" : "The Indian Constitution provides for the establishment of Panchayats and Municipalities under:"
+  },
+  {
+    "question" : "The President of India is the head of the state, while the Prime Minister is the head of the government. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 0
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "Chief Justice of India",
+      "President of India",
+      "Prime Minister of India",
+      "Vice President of India"
+    ],
+    "question" : "The Indian Constitution provides for the establishment of an independent judiciary, headed by the:",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Indian National Congress",
+      "British Parliament",
+      "Constituent Assembly of India",
+      "United Nations"
+    ],
+    "count" : 4,
+    "question" : "The Indian Constitution was drafted and adopted by the:",
+    "correct" : 2
+  },
+  {
+    "options" : [
+      "Parliamentary",
+      "Presidential",
+      "Monarchical",
+      "Oligarchic"
+    ],
+    "count" : 4,
+    "correct" : 0,
+    "question" : "The Indian Constitution provides for the establishment of which type of government at the center?"
+  },
+  {
+    "count" : 4,
+    "question" : "The Indian Constitution follows which system of law?",
+    "correct" : 0,
+    "options" : [
+      "Common Law System",
+      "Civil Law System",
+      "Socialist Law System",
+      "Religious Law System"
+    ]
+  },
+  {
+    "question" : "The Constitution of India divides the powers between the central government and state governments under which scheme?",
+    "options" : [
+      "Three Lists Scheme",
+      "Two Lists Scheme",
+      "Four Lists Scheme",
+      "Five Lists Scheme"
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The concept of \"Judicial Review\" allows the judiciary to review the constitutionality of laws and executive actions. (True\/False)",
+    "count" : 2,
+    "correct" : 0
+  },
+  {
+    "question" : "The Indian Constitution provides for the establishment of the Supreme Court of India as the highest court of the country. How many judges are there in the Supreme Court?",
+    "count" : 4,
+    "correct" : 3,
+    "options" : [
+      "25",
+      "31",
+      "36",
+      "It varies as per the requirement"
+    ]
+  },
+  {
+    "question" : "The Indian Constitution provides for the establishment of which body to safeguard the rights of citizens and act as the custodian of the Constitution?",
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Election Commission of India",
+      "Reserve Bank of India",
+      "Supreme Court of India",
+      "National Human Rights Commission"
+    ]
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "count" : 4,
+    "question" : "The Constitution of India originally had how many Fundamental Duties that citizens are expected to follow?"
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0,
+    "question" : "The Indian Constitution provides for the establishment of a single citizenship for the entire country. (True\/False)",
+    "count" : 2
+  },
+  {
+    "options" : [
+      "Members of Parliament (Lok Sabha and Rajya SabhA) only",
+      "Members of Parliament (Lok Sabha and Rajya SabhA) and State Legislative Assemblies",
+      "Members of Parliament (Lok Sabha and Rajya SabhA) and State Legislative Councils",
+      "Members of State Legislative Assemblies only"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "The President of India is elected by an electoral college consisting of:"
+  },
+  {
+    "question" : "The Indian Constitution provides for the establishment of a Planning Commission to formulate and assess economic plans. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Indian Constitution provides for the establishment of an Election Commission to conduct and supervise elections. (True\/False)",
+    "count" : 2
+  },
+  {
+    "correct" : 0,
+    "question" : "The Indian Constitution provides for the establishment of a Comptroller and Auditor General (CAG) to audit and report on government finances. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2
+  },
+  {
+    "count" : 2,
+    "question" : "The Indian Constitution prohibits the practice of untouchability. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "correct" : 0,
+    "question" : "The Indian Constitution provides for the establishment of an All India Services system to ensure administrative efficiency. (True\/False)",
+    "count" : 2
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Hindi",
+      "English",
+      "Bengali",
+      "Sanskrit"
+    ],
+    "question" : "The Indian Constitution recognizes which language as the official language of the Union?",
+    "correct" : 1
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Minority Commission of India",
+      "National Commission for Minorities",
+      "National Human Rights Commission",
+      "National Commission for Women"
+    ],
+    "count" : 4,
+    "question" : "The Indian Constitution provides for the establishment of which institution to safeguard and promote the rights of minorities in India?"
+  },
+  {
+    "options" : [
+      "Fundamental Right",
+      "Directive Principle of State Policy",
+      "Legal Right",
+      "Social Right"
+    ],
+    "count" : 4,
+    "question" : "The Indian Constitution guarantees the right to education as a:",
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "Central Bureau of Investigation (CBI)",
+      "Central Vigilance Commission (CVC)",
+      "Central Information Commission (CIC)",
+      "National Investigation Agency (NIA)"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "The Indian Constitution provides for the establishment of which institution to investigate and examine complaints of corruption against public servants?"
+  },
+  {
+    "options" : [
+      "Central Bureau of Investigation (CBI)",
+      "Central Vigilance Commission (CVC)",
+      "Lokpal",
+      "Election Commission of India"
+    ],
+    "correct" : 2,
+    "question" : "The Indian Constitution provides for the appointment of which authority to inquire into the conduct of the President and other Union government officials?",
+    "count" : 4
+  },
+  {
+    "correct" : 0,
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Indian Constitution provides for the establishment of a Finance Commission to determine the distribution of financial resources between the Union and the States. (True\/False)"
+  },
+  {
+    "correct" : 0,
+    "question" : "The Indian Constitution provides for the establishment of a National Human Rights Commission (NHRC) to protect and promote human rights in the country. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2
+  },
+  {
+    "options" : [
+      "14",
+      "19",
+      "21",
+      "25"
+    ],
+    "question" : "The Indian Constitution guarantees the right to freedom of speech and expression under Article:",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "correct" : 0,
+    "question" : "The Indian Constitution provides for the establishment of a Public Service Commission in each state to conduct examinations for appointments to civil services. (True\/False)",
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "count" : 2
+  },
+  {
+    "question" : "The Indian Constitution guarantees the right to life and personal liberty under Article:",
+    "options" : [
+      "14",
+      "19",
+      "21",
+      "25"
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "14",
+      "19",
+      "21",
+      "25"
+    ],
+    "question" : "The Indian Constitution guarantees the right to freedom of religion under Article:"
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "True  ",
+      "False"
+    ],
+    "question" : "The Indian Constitution provides for the establishment of a National Green Tribunal (NGT) to handle cases related to environmental protection and conservation. (True\/False)",
+    "count" : 2
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "question" : "The Indian Constitution guarantees the right to constitutional remedies under Article:",
+    "options" : [
+      "14",
+      "19",
+      "21",
+      "32"
+    ]
+  },
+  {
+    "correct" : 0,
+    "question" : "The Indian Constitution provides for the establishment of a Central Information Commission (CIC) to promote transparency and accountability in the working of government offices. (True\/False)",
+    "count" : 2,
+    "options" : [
+      "True  ",
+      "False"
+    ]
+  },
+  {
+    "question" : "The Indian Constitution provides for the establishment of which authority to protect the interests of Scheduled Castes and Scheduled Tribes and promote their social, educational, and economic development?",
+    "correct" : 0,
+    "options" : [
+      "National Commission for Scheduled Castes",
+      "National Commission for Scheduled Tribes",
+      "Ministry of Social Justice and Empowerment",
+      "Ministry of Tribal Affairs"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "14",
+      "15",
+      "19",
+      "21"
+    ],
+    "question" : "The Indian Constitution guarantees the right to protection against discrimination on the grounds of religion, race, caste, sex, or place of birth under Article:"
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "National Commission for Linguistic Minorities",
+      "National Human Rights Commission (NHRC)",
+      "National Commission for Women (NCW)",
+      "National Green Tribunal (NGT)"
+    ],
+    "question" : "The Indian Constitution provides for the establishment of which institution to protect the linguistic minorities and their rights in India?",
+    "count" : 4
+  },
+  {
+    "question" : "The Indian Constitution guarantees the right to protection against exploitation, including the prohibition of forced labor, under Article:",
+    "count" : 4,
+    "options" : [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "correct" : 0
+  },
+  {
+    "question" : "The Indian Constitution provides for the establishment of which institution to protect and promote the rights of children and ensure their well-being?",
+    "correct" : 1,
+    "count" : 4,
+    "options" : [
+      "Ministry of Women and Child Development",
+      "National Commission for Protection of Child Rights (NCPCR)",
+      "Central Adoption Resource Authority (CARA)",
+      "National Commission for Women (NCW)"
+    ]
+  },
+  {
+    "question" : "The Indian Constitution guarantees the right to protection against untouchability and the prohibition of its practice under Article:",
+    "options" : [
+      "14",
+      "15",
+      "17",
+      "21"
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Central Vigilance Commission (CVC)",
+      "Central Bureau of Investigation (CBI)",
+      "Lokpal",
+      "Election Commission of India"
+    ],
+    "correct" : 2,
+    "question" : "The Indian Constitution provides for the establishment of which institution to investigate and inquire into complaints of corruption against public functionaries?"
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "question" : "The Indian Constitution guarantees the right to protection of cultural and educational rights for minorities under Article:"
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "National Commission for Scheduled Castes",
+      "National Commission for Scheduled Tribes",
+      "Ministry of Social Justice and Empowerment",
+      "Ministry of Tribal Affairs"
+    ],
+    "correct" : 1,
+    "question" : "The Indian Constitution provides for the establishment of which institution to safeguard and promote the rights of tribal communities in India?"
+  },
+  {
+    "question" : "The Indian Constitution guarantees the right to protection of life and personal liberty against arbitrary arrest and detention under Article:",
+    "count" : 4,
+    "options" : [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "question" : "The Indian Constitution provides for the establishment of which authority to inquire into grievances and complaints against administrative actions and decisions?",
+    "options" : [
+      "Central Bureau of Investigation (CBI)",
+      "Election Commission of India",
+      "Central Information Commission (CIC)",
+      "Central Administrative Tribunal (CAT)"
+    ],
+    "correct" : 3
+  },
+  {
+    "count" : 4,
+    "question" : "The Indian Constitution guarantees the right to protection of the interests of minorities to establish and administer educational institutions of their choice under Article:",
+    "correct" : 1,
+    "options" : [
+      "29",
+      "30",
+      "31",
+      "32"
+    ]
+  },
+  {
+    "options" : [
+      "Central Vigilance Commission (CVC)",
+      "Central Bureau of Investigation (CBI)",
+      "Lokpal",
+      "Chief of Defense Staff"
+    ],
+    "count" : 4,
+    "question" : "The Indian Constitution provides for the establishment of which institution to investigate and inquire into complaints of corruption in the armed forces?",
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correct" : 2,
+    "count" : 4,
+    "question" : "The Indian Constitution guarantees the right to protection of personal liberty and habeas corpus under Article:"
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      "National Human Rights Commission (NHRC)",
+      "National Green Tribunal (NGT)",
+      "Central Vigilance Commission (CVC)",
+      "National Consumer Disputes Redressal Commission (NCDRC)"
+    ],
+    "count" : 4,
+    "question" : "The Indian Constitution provides for the establishment of which institution to promote and protect the rights of consumers in India?"
+  },
+  {
+    "question" : "What are DPSPs in the Indian Constitution?",
+    "options" : [
+      "Fundamental Rights guaranteed to citizens",
+      "Directives given to the President by the Prime Minister",
+      "Guidelines for the governance of the country",
+      "Directives given to the Supreme Court by the Parliament"
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "question" : "Which part of the Indian Constitution contains DPSPs?",
+    "options" : [
+      "Part I",
+      "Part II",
+      "Part III",
+      "Part IV"
+    ]
+  },
+  {
+    "options" : [
+      "United States",
+      "France",
+      "Germany",
+      "Ireland"
+    ],
+    "question" : "DPSPs are inspired by which country's constitution?",
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "question" : "DPSPs are enforceable in a court of law. ",
+    "count" : 2,
+    "correct" : 1,
+    "options" : [
+      "True",
+      "False"
+    ]
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Article 36",
+      "Article 42",
+      "Article 48",
+      "Article 51"
+    ],
+    "correct" : 0,
+    "question" : "Which article of the Indian Constitution deals with the implementation of DPSPs?"
+  },
+  {
+    "question" : "DPSPs primarily aim to promote the welfare of which group?",
+    "options" : [
+      "Women",
+      "Children",
+      "Weaker sections of society",
+      "All"
+    ],
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "correct" : 1,
+    "question" : "Which amendment to the Constitution added the 42nd Amendment, significantly altering DPSPs?",
+    "count" : 4,
+    "options" : [
+      "42nd Amendment",
+      "44th Amendment",
+      "52nd Amendment",
+      "73rd Amendment"
+    ]
+  },
+  {
+    "options" : [
+      "Promotion of international peace and security",
+      "Protection of monuments and places of national importance",
+      "Provision of free and compulsory education for children",
+      "None"
+    ],
+    "question" : "Which of the following is NOT one of the main principles outlined in DPSPs?",
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "count" : 4,
+    "correct" : 3,
+    "question" : "DPSPs are primarily the responsibility of which level of government in India?",
+    "options" : [
+      "Central government",
+      "State governments",
+      "Local governments",
+      "All "
+    ]
+  },
+  {
+    "count" : 2,
+    "correct" : 1,
+    "question" : "DPSPs can be enforced by the courts in certain circumstances.  ",
+    "options" : [
+      "True",
+      "False"
+    ]
+  },
+  {
+    "question" : "The DPSPs are primarily drawn from which section of the Indian Constitution?",
+    "options" : [
+      "Part III - Fundamental Rights",
+      "Part IV - Directive Principles of State Policy",
+      "Part VI - The States in the B Part of the First Schedule",
+      "Part IX - The Panchayats"
+    ],
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      "To provide free healthcare to all citizens",
+      "To promote tourism",
+      "To organize agricultural reforms",
+      "To secure a social order for the promotion of welfare of the people"
+    ],
+    "question" : "According to DPSPs, what should be the duty of the State towards raising the level of nutrition and the standard of living of its people?",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Article 39A",
+      "Article 43A",
+      "Article 50",
+      "Article 52"
+    ],
+    "count" : 4,
+    "correct" : 2,
+    "question" : "Which Directive Principle promotes the separation of the judiciary from the executive in the public services of the State?"
+  },
+  {
+    "question" : "DPSPs are legally enforceable and can be used to challenge unconstitutional laws. ",
+    "options" : [
+      "True",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1
+  },
+  {
+    "question" : "What are DPSPs in the Indian Constitution?",
+    "options" : [
+      "Fundamental Rights guaranteed to citizens",
+      "Directives given to the President by the Prime Minister",
+      "Guidelines for the governance of the country",
+      "Directives given to the Supreme Court by the Parliament"
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "count" : 2,
+    "correct" : 1,
+    "options" : [
+      "True",
+      "False"
+    ],
+    "question" : "DPSPs are enforceable in a court of law.  "
+  },
+  {
+    "question" : "Which article of the Indian Constitution deals with the implementation of DPSPs?",
+    "correct" : 0,
+    "options" : [
+      "Article 36 to 51",
+      "Article 42",
+      "Article 48",
+      "Article 51"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Which of the following is NOT one of the main principles outlined in DPSPs?",
+    "count" : 4,
+    "options" : [
+      "Promotion of international peace and security",
+      "Protection of monuments and places of national importance",
+      "Provision of free and compulsory education for children",
+      "Protection of the environment and wildlife"
+    ],
+    "correct" : 1
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "question" : "The Directive Principles of State Policy in the Indian Constitution are based on the philosophy of which Indian leader?",
+    "options" : [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Dr. B.R. Ambedkar",
+      "Mahatma Gandhi"
+    ]
+  },
+  {
+    "question" : "Which of the following is NOT a category of Directive Principles of State Policy in the Indian Constitution?",
+    "count" : 4,
+    "options" : [
+      "Social and Economic Welfare",
+      "Environmental Protection",
+      "Gandhian Principles",
+      "Foreign Policy Directives"
+    ],
+    "correct" : 3
+  },
+  {
+    "count" : 2,
+    "options" : [
+      "True",
+      "False"
+    ],
+    "correct" : 0,
+    "question" : "DPSPs are applicable only to the Indian government and do not influence the functioning of private individuals or organizations.  "
+  },
+  {
+    "options" : [
+      "Article 39",
+      "Article 45",
+      "Article 48A",
+      "Article 50"
+    ],
+    "correct" : 1,
+    "question" : "Which Directive Principle emphasizes securing opportunities for healthy development and a just childhood for children?",
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Scheduled Castes and Scheduled Tribes",
+      "Upper-class citizens",
+      "Foreign investors",
+      "Religious minorities"
+    ],
+    "correct" : 0,
+    "question" : "DPSPs aim to promote the educational and economic interests of which of the following groups?"
+  },
+  {
+    "options" : [
+      "Encourage large-scale commercial farming",
+      "Promote small-scale industries in rural areas",
+      "Ensure that rural credit is easily available",
+      "Organize village Panchayats"
+    ],
+    "count" : 4,
+    "correct" : 0,
+    "question" : "According to DPSPs, what should the State endeavour to do in relation to agriculture and animal husbandry?"
+  },
+  {
+    "correct" : 2,
+    "count" : 4,
+    "question" : "Which Directive Principle aims to protect and improve the environment and safeguard forests and wildlife?",
+    "options" : [
+      "Article 47",
+      "Article 48",
+      "Article 48A",
+      "Article 51A"
+    ]
+  },
+  {
+    "count" : 2,
+    "correct" : 1,
+    "options" : [
+      "True",
+      "False"
+    ],
+    "question" : "DPSPs are considered less important than Fundamental Rights in the Indian Constitution. "
+  },
+  {
+    "correct" : 0,
+    "count" : 4,
+    "options" : [
+      "42nd Amendment",
+      "44th Amendment",
+      "76th Amendment",
+      "97th Amendment"
+    ],
+    "question" : "Which amendment to the Indian Constitution added a new Directive Principle related to the promotion of international peace and security?"
+  },
+  {
+    "question" : "According to DPSPs, what should the State do to promote the educational and economic interests of weaker sections of society, especially Scheduled Castes and Scheduled Tribes?",
+    "correct" : 0,
+    "options" : [
+      "Provide reservation in public employment and education",
+      "Provide tax benefits to multinational corporations",
+      "Establish state-funded religious institutions",
+      "Ban child labor completely"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Which Directive Principle emphasizes the separation of the judiciary from the executive for the proper functioning of the justice system?",
+    "count" : 4,
+    "options" : [
+      "Article 36",
+      "Article 44",
+      "Article 50",
+      "Article 51A"
+    ],
+    "correct" : 2
+  },
+  {
+    "count" : 2,
+    "question" : "DPSPs are applicable only to the central government and do not extend to state governments. ",
+    "correct" : 1,
+    "options" : [
+      "True",
+      "False"
+    ]
+  },
+  {
+    "options" : [
+      "True",
+      "False"
+    ],
+    "count" : 2,
+    "correct" : 1,
+    "question" : "The DPSPs are directly justiciable, and citizens can approach the courts if they are not implemented by the government. "
+  },
+  {
+    "question" : "Which Directive Principle aims to protect and improve public health and prohibit the consumption of intoxicating drinks and drugs that are injurious to health?",
+    "options" : [
+      "Article 38",
+      "Article 42",
+      "Article 47",
+      "Article 51A"
+    ],
+    "correct" : 2,
+    "count" : 4
+  },
+  {
+    "options" : [
+      "24th Amendment",
+      "42nd Amendment",
+      "73rd Amendment",
+      "97th Amendment"
+    ],
+    "correct" : 1,
+    "question" : "The idea of a welfare state in DPSPs was added during which amendment to the Indian Constitution?",
+    "count" : 4
+  },
+  {
+    "question" : "According to DPSPs, what should the State do to promote cottage industries on an individual or cooperative basis in rural areas?",
+    "options" : [
+      "Impose heavy taxes on large industries",
+      "Establish export-oriented units in rural areas",
+      "Encourage technical and scientific research",
+      "Secure that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment"
+    ],
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "Provide reservation in public employment and education",
+      "Provide tax benefits to multinational corporations",
+      "Establish state-funded religious institutions",
+      "Ban child labor completely"
+    ],
+    "count" : 4,
+    "correct" : 0,
+    "question" : "According to DPSPs, what should the State do to promote the educational and economic interests of weaker sections of society, especially Scheduled Castes and Scheduled Tribes?"
+  },
+  {
+    "count" : 4,
+    "question" : "According to DPSPs, what should the State do to promote equal justice and free legal aid for economically weaker sections of society?",
+    "options" : [
+      "Establish an independent judiciary",
+      "Make primary education compulsory and free",
+      "Provide financial assistance to large industries",
+      "Organize village panchayats"
+    ],
+    "correct" : 0
+  },
+  {
+    "correct" : 0,
+    "count" : 2,
+    "question" : "DPSPs are only applicable to citizens of India and do not extend to non-citizens.  ",
+    "options" : [
+      "True",
+      "False"
+    ]
+  },
+  {
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      "61",
+      "62",
+      "52",
+      "74"
+    ],
+    "question" : "DPSPs aim to establish an egalitarian society in India by promoting economic and social democracy. "
+  },
+  {
+    "question" : "Who among the following holds office during the pleasure of the President ?",
+    "count" : 4,
+    "options" : [
+      "Governor",
+      "Election Commissioner",
+      "Speaker ofLok Sabha",
+      "Prime Minister"
+    ],
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "They can be reduced during a Financial Emergency.",
+      "They are shown separately in the budget.",
+      "They are charged on the Contigency Fund of India.",
+      "They do nolrequire any parliament sanction. ?"
+    ],
+    "count" : 4,
+    "correct" : 2,
+    "question" : "Which of the following is not true regarding the payment of the emoluments of the President "
+  },
+  {
+    "options" : [
+      "i) 35 years of age",
+      "ii) He should be eligible to be elected as a member of Rajya Sabha.",
+      "iii) Must be an Indian citizen",
+      "iv) Only i and iii"
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "What qualifications should be to become a President?"
+  },
+  {
+    "count" : 4,
+    "question" : "How can the post of President be vacant?",
+    "options" : [
+      "i) On expiry of his tenure",
+      "ii) By his resignation",
+      "iii) Only on the commencement of impeachment in Rajya Sabha",
+      "iv) Only i and ii"
+    ],
+    "correct" : 3
+  },
+  {
+    "question" : "Which of the following statements is not correct?",
+    "options" : [
+      "President is the head of military forces of India",
+      "President can appoint a commission to investigate into the conditions of SCs and STs.",
+      "President can declare any area as scheduled area",
+      "President of India the chairman of the Finance Commission"
+    ],
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "question" : "The executive actions of the government are carried out under whose name?",
+    "correct" : 2,
+    "options" : [
+      "i) Cabinet",
+      "ii) Prime Minister",
+      "iii) President",
+      "iv) Both (i) and (iii)"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "two terms",
+      "No limit",
+      "Single term",
+      "three terms"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "What are the maximum number of terms that a person can hold for the office of President?"
+  },
+  {
+    "count" : 4,
+    "correct" : 3,
+    "question" : "Who appoints the chief of Army, Navy, and Air Force?",
+    "options" : [
+      "Prime Minister",
+      "Defence Minister",
+      "Foreign Minister",
+      "President"
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "What does “respite” mean in terms of the powers granted to the President?",
+    "correct" : 1,
+    "options" : [
+      "the basic punishment remains the same but the duration is shortened",
+      "in presence of a special circumstance, like physical disability, the President can award a lesser sentence than the one that was originally granted",
+      "The President can substitute one harsher punishment with some lighter form, like changing a death sentence to a life sentence",
+      "completely absolves the person from all types punishments and disqualifications"
+    ]
+  },
+  {
+    "question" : "Which among the following Veto powers is NOT granted to the President?",
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Absolute Veto",
+      "Pocket Veto",
+      "Qualified Veto",
+      "Suspensive Veto"
+    ]
+  },
+  {
+    "options" : [
+      "Chief Justice",
+      "Parliament",
+      "Vice President",
+      "Prime Minister"
+    ],
+    "count" : 4,
+    "question" : "The President gives his resignation to the",
+    "correct" : 2
+  },
+  {
+    "question" : "In case a President dies while in office, the vice President can act as President for a",
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      "1 years",
+      "3 months",
+      "6 months",
+      "2 years"
+    ]
+  },
+  {
+    "question" : "Who administers the oath of office to the President of India ?",
+    "correct" : 0,
+    "options" : [
+      "Chief Justice of India",
+      "Speaker",
+      "Vice President",
+      "Prime Minister"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 2,
+    "question" : "The five year term of the President is calculated from the",
+    "options" : [
+      "First day of the month following the month he assumes charge",
+      "Date of his election result",
+      "Day he assumes charge",
+      "First day of the month he assumes charge"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Who acts as the President of India when neither the President nor the Vice President is available?",
+    "correct" : 1,
+    "options" : [
+      "Senior most Governor of a State",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Auditor General of India"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "America",
+      "Japan",
+      "Russia",
+      "Britain"
+    ],
+    "question" : "The Constitution of India adopted Fundamental Duties from the Constitution of _______",
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "question" : "When Fundamental Duties were added in the Constitution of India?",
+    "correct" : 0,
+    "options" : [
+      "1976",
+      "1965",
+      "1970",
+      "1992"
+    ]
+  },
+  {
+    "correct" : 3,
+    "question" : "At present how many Fundamental Duties are in the Constitution of India?",
+    "count" : 4,
+    "options" : [
+      "6",
+      "7",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "options" : [
+      "Article 12 to 35",
+      "Article 51A",
+      "Article 36 to 50",
+      "Article 19"
+    ],
+    "correct" : 1,
+    "question" : "In the Indian Constitution, Fundamental Duties are given in which article?",
+    "count" : 4
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      "Fundamental Duties are given in Part IV of the Constitution",
+      "After the 42nd constitutional amendment Fundamental Duties have been added to the Constitution of India.",
+      "In 2002, after the 82nd Constitution Amendment Act, another Fundamental Duty was added.",
+      "Public Representation Act, Built in1951."
+    ],
+    "question" : "Which of the following statements is false?",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Verma Committee",
+      "Sarkaria Committee",
+      "Balwantrai Mehta Committee",
+      "Swaran Singh Committee"
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "Which of the following committee advocated the Fundamental Duties in the Indian constitution?"
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Safeguarding public property",
+      "To obey the parents",
+      "To make compulsory education to children of 6 to 14 years",
+      "To spread brotherhood among the people"
+    ],
+    "question" : "Which of the following is not the Fundamental Duty?",
+    "correct" : 1
+  },
+  {
+    "question" : "Which Constitutional Amendment Act was passed to provide compulsory education to children between 6 and 14 years?",
+    "count" : 4,
+    "options" : [
+      "82nd",
+      "83rd",
+      "86th",
+      "84th"
+    ],
+    "correct" : 2
+  },
+  {
+    "question" : "When was the 'Prevention of Insults to National Honour Act' passed?",
+    "correct" : 3,
+    "options" : [
+      "1976",
+      "1972",
+      "1974",
+      "1971"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 2,
+    "count" : 4,
+    "question" : "What is the minimum age for holding office in the Lok Sabha?",
+    "options" : [
+      "18 Years",
+      "21 years",
+      "25 Years",
+      "30 years"
+    ]
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "i) Rajya Sabha",
+      "ii) Lok Sabha",
+      "iii) Both i & ii",
+      "iv) Neither i nor ii"
+    ],
+    "question" : "A motion of no confidence against the Government can be introduced in:",
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "question" : "How many sessions of the Lok Sabha take place in a year?"
+  },
+  {
+    "options" : [
+      "Budget Session",
+      "Monsoon Session",
+      "Summer Session",
+      "Winter Session"
+    ],
+    "question" : "Which of the following are not sessions of the Lok Sabha?",
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "options" : [
+      "Annual Financial Statement",
+      "Monthly Financial Statement",
+      "Receipt and Expenditure Statement",
+      "Taxation Statement"
+    ],
+    "count" : 4,
+    "question" : "The budget is also known as:",
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "President",
+      "Lok Sabha & Rajya Sabha",
+      "Both A and B",
+      "None of the above"
+    ],
+    "question" : "The Parliament of India consists of the following:"
+  },
+  {
+    "correct" : 2,
+    "count" : 4,
+    "question" : "Who decides whether a bill is a Money Bill or not?",
+    "options" : [
+      "President",
+      "Prime Minister",
+      "Speaker of the Lok Sabha",
+      "Finance Minister"
+    ]
+  },
+  {
+    "options" : [
+      "Two-tier system",
+      "Three-tier system",
+      "Four-tier system",
+      "None of the above"
+    ],
+    "correct" : 1,
+    "question" : "The Federal structure of the Government of India provides:",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "i) Westminster model",
+      "ii) Welfare State model",
+      "iii) Both i & ii",
+      "iv) Neither i nor ii"
+    ],
+    "question" : "Indian Parliamentary System is based on which model?",
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "245",
+      "545",
+      "552",
+      "732"
+    ],
+    "correct" : 1,
+    "question" : "How many members are there in the Lok Sabha, the lower house of the Indian Parliament?"
+  },
+  {
+    "options" : [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "Vidhan Sabha",
+      "State Legislative Council "
+    ],
+    "question" : "What is the name of the upper house of the Indian Parliament?",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "correct" : 3,
+    "options" : [
+      "President",
+      "Lok Sabha",
+      "Rajya Sabha",
+      "All"
+    ],
+    "question" : "Which among the following can be said to be a part of the Parliament of India?"
+  },
+  {
+    "question" : "Which among the following statements is\/are true?",
+    "options" : [
+      "Only 1 and 3",
+      "Only 3",
+      "Only 2 and 4",
+      "None"
+    ],
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "Only 1 and 3",
+      "Only 2 and 3",
+      "Only 1,3, and 4",
+      "Only 2,3, and 4"
+    ],
+    "question" : "Which among the following statements is\/are true?"
+  },
+  {
+    "options" : [
+      "Only 1",
+      "Only 2 and 4",
+      "Only 3",
+      "Only 2"
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "Which among the following statements is\/are false?"
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "he is no longer a Speaker if he ceases to be a member of the Lok Sabha due to any reason",
+      "When the Lok Sabha dissolves, the Speaker vacates his position simultaneously",
+      "The Speaker is the head of the Lok Sabha and also its representative",
+      "When there's a deadlock in vote, the Speaker can cast his casting vote to break the deadlock"
+    ],
+    "question" : "What is NOT true about the tenure of the Speaker of the Lok Sabha?"
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "2,3 and 4",
+      "1,3 and 4",
+      "2 and 3",
+      "All of the above"
+    ],
+    "correct" : 3,
+    "question" : "Which among the following statements is\/are NOT true?"
+  },
+  {
+    "count" : 4,
+    "question" : "Which among the following statements is\/are NOT true about the 'Leader of the House'?",
+    "options" : [
+      "In Lok Sabha, generally, the 'Leader of the House' is the Prime Minister",
+      "The same functionary in USA is known as the 'majority leader'",
+      "In USA, the analogous title given for this post is 'majority leader'",
+      "The President nominates the 'Leader of the House' for the Rajya Sabha"
+    ],
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "Minimum number of members required to be present in the House before it can transact any type of business",
+      "Maximum number of members allowed in any given session",
+      "The discipline of maintaining the decorum in the House",
+      "Quorum means approval of the majority members present during the sitting"
+    ],
+    "question" : "What is the meaning of the word Quorum?",
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "question" : "Which among the following statements is\/are true?",
+    "correct" : 1,
+    "count" : 4,
+    "options" : [
+      "Only 3 and 4",
+      "Only 1 and 2",
+      "Only 2 and 4",
+      "Only 1 and 3"
+    ]
+  },
+  {
+    "question" : "What are the three types of questions asked in the Question Hour?",
+    "count" : 4,
+    "options" : [
+      "Starred, Unstarred, Short notice",
+      "Very very important, very important, important",
+      "Starred, Unstarred, Emergency",
+      "Expert, Professional, Detailed"
+    ],
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "question" : "Which among the following statements is\/are NOT true about the No-Confidence motion?",
+    "correct" : 2,
+    "options" : [
+      "There's no need to state the reasons for its adoption in the Lok Sabha",
+      "Once passed, it leads to the resignation of the entire council of ministers",
+      "It can also be moved against an individual minister",
+      "No-Confidence motion needs the support of 50 members to get admitted in the House"
+    ]
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Generally, it has a better chance of approval than the Private Bill",
+      "Public Bill is introduced by a minister in the Parliament",
+      "Notice period for introduction of Bill is one month",
+      "A Public Bill demonstrates the policies of the ruling party government"
+    ],
+    "question" : "Which among the following statements is\/are NOT true about the Public Bill?"
+  },
+  {
+    "correct" : 3,
+    "question" : "Which among the following statements is\/are true about the Money Bill?",
+    "options" : [
+      "Only 1, 2 and 3",
+      "Only 2 and 4",
+      "Only 2",
+      "All are true"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Only 1 and 3",
+      "Only 2 and 4",
+      "Only 1, 2, and 4",
+      "Only 1, 2 and 3"
+    ],
+    "correct" : 3,
+    "question" : "Which among the following statements is\/are true about Financial Bills?"
+  },
+  {
+    "question" : "Which among the following statements is\/are true about Joint Sitting of Two Houses (Lok Sabha and Rajya SabhA) ?",
+    "count" : 4,
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct" : 3
+  },
+  {
+    "question" : "Which articles deal with the relationship between the President and the PM?",
+    "count" : 4,
+    "options" : [
+      "Article 74",
+      "Article 75 (a)",
+      "Article 78",
+      "All "
+    ],
+    "correct" : 3
+  },
+  {
+    "question" : "Which of the following is\/are true?",
+    "count" : 4,
+    "options" : [
+      "2, 3",
+      "1, 3",
+      "1, 2",
+      "All of the above"
+    ],
+    "correct" : 3
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "question" : "The total number of members nominated by the President to the Lok Sabha and the Rajya ' Sabha is",
+    "options" : [
+      "16",
+      "18",
+      "14",
+      "12"
+    ]
+  },
+  {
+    "question" : "Which one of the following does not constitute the electoral college for electing the President of India ?",
+    "options" : [
+      "Elected members of Lok Sabha",
+      "Elected members of the Legislative Assembly of each state.",
+      "Elected members of the Legislative Council",
+      "Elected members of Rajya Sabha "
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "question" : "Council of Ministers in a Parliamentary type of Government can remain in ‘office till it  enjoys the support of the-",
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "Majority of members of the Upper House of Parliament",
+      "Majority of the members of the Upper House of parliament",
+      "Minority of members o f the Lower House",
+      "Majority of the members of the Lower House of Parliament"
+    ]
+  },
+  {
+    "options" : [
+      "Chief of the Army",
+      "Speaker of the Lok Sabha",
+      "Chief Justice of India",
+      "Chief of the Air Force"
+    ],
+    "question" : "Which of the following appointments is not made by the President of India?",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Lok Sabha",
+      "President",
+      "Parliament",
+      "Citizens of India"
+    ],
+    "question" : "Who appoints the Prime Minister of India ?",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Both Houses of Parliament",
+      "Speaker of Lok Sabha and Chairman of Rajya Sabha",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "question" : "The charge of impeachment against the President of India for his removal can be prefened by",
+    "correct" : 0,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "Jawaharlal Nehru",
+      "Mrs. Indira Gandhi",
+      "Dr . Rajendra Prasad",
+      "Mahatma Gandhi"
+    ],
+    "question" : "Who was the first Prime Minister of India ?"
+  },
+  {
+    "options" : [
+      "Cabinet Ministers, Minister of State and Deputy Ministers",
+      "Cabinet Ministers and Chief Ministers of the States",
+      "Prime Minister",
+      "Cabinet Ministers"
+    ],
+    "correct" : 0,
+    "question" : "The Union Council of Ministers consists of",
+    "count" : 4
+  },
+  {
+    "question" : "Who administers the oath of office to the Presi$ent of India before he enters upon the office ?",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "Chief Justice I",
+      "Speaker t",
+      "Vice President",
+      "Prime Minister"
+    ]
+  },
+  {
+    "count" : 4,
+    "correct" : 3,
+    "options" : [
+      "9 months",
+      "3 months",
+      "12 rnonths",
+      "6 months"
+    ],
+    "question" : "A person who is not a member of Parliament can be appointed as a Minister by the President for a maximum period of"
+  },
+  {
+    "question" : "When can a President use his discretion in appointing the Prime Minister ?",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "When no political oarty enjoys a clear majority in the Lok Sabha.",
+      "Only when the Lok Sabha has been dissolved.",
+      "In all circumstances ",
+      "In no. circumstances"
+    ]
+  },
+  {
+    "question" : "If in a country, there happens to be the office of monarchy as well as a Parliamentary form of government this monarch will be called.",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "Head of the State",
+      "Head of the Cabinet",
+      "Head of the government",
+      "Both Head of the government and State"
+    ]
+  },
+  {
+    "options" : [
+      "Their performance as office bearers of cultural societies.",
+      "The recommendations made by the Vice President.",
+      "Their role played in political set up of the country.",
+      "Their distinction in the field of science, art, literature and social service."
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "The President nominates l2 members of the Rajya Sabha according to"
+  },
+  {
+    "question" : "Who can initiate impeachment proceedings against the President of India ?",
+    "options" : [
+      "Either House of Parliament",
+      "Any Vidhan Sabha",
+      "Only Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "President",
+      "Prime Minister",
+      "Defence Minister",
+      "Cabinet Committee on Political Affairs"
+    ],
+    "correct" : 2,
+    "question" : "Who among the following is directly responsible to Parliament for all rnatters concerning the Defence Services of India?"
+  },
+  {
+    "question" : "Is the Prime Minister bound to advise the President on matters on which his advice is sought",
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "If the Council of Ministers so desires.",
+      "Yes",
+      "No",
+      "It is discretionary"
+    ]
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "President",
+      "cabinet Ministers",
+      "Ministers of State",
+      "Deputy Ministers"
+    ],
+    "question" : "Who among the following can attend meetings of the Union Cabinet ?",
+    "count" : 4
+  },
+  {
+    "question" : "Who acts as the President of India when neither the President nor the Vice President is available ?",
+    "count" : 4,
+    "options" : [
+      "Senior Governor of a State",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Auditor General of India"
+    ],
+    "correct" : 1
+  },
+  {
+    "question" : "The Union Council of Ministers is appointed by the",
+    "count" : 4,
+    "options" : [
+      "President of India according to his discretion",
+      "President of lndia on the advice of the Prime Minister",
+      "Prime Minister of India",
+      "Parliament"
+    ],
+    "correct" : 1
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Speaker oflok Sabha",
+      "Prime Minister",
+      "Chief Justice of India",
+      "Union Cabinet"
+    ],
+    "correct" : 1,
+    "question" : "The President can proclaim emergency on the written advice of the"
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      "Yes, if the Council of Ministers so desires",
+      "Yes",
+      "No"
+    ],
+    "count" : 3,
+    "question" : "The Union Council of Ministers is collectively responsible to"
+  },
+  {
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "6 weeks from the reassembly of Parliament",
+      "6 months from the reassembly of the Parliament",
+      "6 weeks from the date of issue of ordinance.",
+      "3 months from the date of issue of the ordinance."
+    ],
+    "question" : "Who is the ex- officio Chairman of the Council of States ?"
+  },
+  {
+    "options" : [
+      "The Prime Minister",
+      "The Electoral College consisting of members of Parliament and the State Legislatures.",
+      "Impeachment",
+      "A no- confidence vote."
+    ],
+    "correct" : 2,
+    "count" : 4,
+    "question" : "The President may for violation of the Constitution be removed from the office by"
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      "In returning a proposal to the Council of Ministers for reconsideration",
+      "None of the Above",
+      "In appointing the Prime Minister",
+      "Both of these"
+    ],
+    "question" : "In which of the following situations does the President act in his own discretion?",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "National Development Council",
+      "Regional Council",
+      "Planning Commission",
+      "Zonal Council"
+    ],
+    "question" : "The Prime Minister. Union Cabinet Minister, Chief Minister and Council of Ministers are all members of",
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "correct" : 3,
+    "question" : "The President can make laws through ordinances",
+    "options" : [
+      "Only on subjects contained in the concurrent list",
+      "Under no circumstances",
+      "On certain subjects even when Parliament is in session.",
+      "During the recess of the Parliament"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Can seek the opinion of the Supreme Court on the bill",
+      "Gives assent to the bill",
+      "Can once again return the bill for further reconsideration",
+      "Can ask for a referendum on the bill"
+    ],
+    "count" : 4,
+    "correct" : 1,
+    "question" : "If the President returns a Bill sent to him for his assent and the Parliament once again passes the Bill in its original form, then the President"
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Lok Sabha is dissolved",
+      "Only Prime Minister and that Minister resigns.",
+      "The whole Council of Ministers resigns",
+      "The Minister resigns"
+    ],
+    "question" : "If a Minister loses a no- confidence motion. then",
+    "correct" : 2
+  },
+  {
+    "options" : [
+      "President",
+      "Election Commission",
+      "Cabinet",
+      "Prime Minister"
+    ],
+    "question" : "The control of the preparation of electoral rolls for parliament and legislature vests with the",
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "correct" : 1,
+    "question" : "The Vice President is elected by an Electoral College consisting of members of",
+    "options" : [
+      "Both Houses of Parliament and state legislative",
+      "Both Houses of Parliament",
+      "Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 0,
+    "question" : "The maximum age prescribed for election as president is",
+    "options" : [
+      "No such Limit",
+      "62 years",
+      "58 years",
+      "60 years"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "The power to decide an election petition is vested in the",
+    "options" : [
+      "High Court",
+      "Election Commission",
+      "Parliament",
+      "Supreme Court"
+    ],
+    "correct" : 1
+  },
+  {
+    "question" : "To elect the President of India, which one of the following election procedures is used ?",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "System of proportional representation by mean{ of the single transferable vote",
+      "Secondary voting system",
+      "Proportional representation through list system",
+      "Collective Voting system"
+    ]
+  },
+  {
+    "options" : [
+      "1950-51",
+      "1948-49",
+      "1953-52",
+      "1947-48"
+    ],
+    "question" : "In which year were the first general election held in India ?",
+    "correct" : 0,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "Election to the house of the people and the Legislative Assemblies of States in India are conducted on the basis of",
+    "correct" : 3,
+    "options" : [
+      "Single Transferable vote",
+      "Proportional Representation",
+      "Limited suffrage",
+      "Adult Franchise"
+    ]
+  },
+  {
+    "question" : "Who appoint the Chief Election Commissioner of India?",
+    "correct" : 1,
+    "options" : [
+      "Chief Justice of India",
+      "President",
+      "Prime Minister",
+      "Parliament"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      " Supreme Court",
+      " Parliament",
+      " Law Minister",
+      " Lok Sabha"
+    ],
+    "correct" : 0,
+    "count" : 4,
+    "question" : "Which is the highest judicial authority in India whose decisions are binding on all courts?"
+  },
+  {
+    "correct" : 2,
+    "question" : "How many judges are there in the Supreme Court?",
+    "count" : 4,
+    "options" : [
+      " 26 judges including the Chief Justice of India",
+      " 30 judges including the Chief Justice of India",
+      " 31 judges including the Chief Justice of India",
+      " 49 judges including the Chief Justice of India"
+    ]
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      " Prime Minister",
+      " Chief Justice of India",
+      " Lok Sabha",
+      " President"
+    ],
+    "question" : "Who appoints the judges of the Supreme Court?"
+  },
+  {
+    "correct" : 3,
+    "question" : "Which among the following is NOT a criteria for being eligible to be a judge of the Supreme Court?",
+    "options" : [
+      " judge of one high court or more (continuously), for at least five years",
+      " an advocate of Supreme Court for at least ten years",
+      " a distinguished jurist in the opinion of the president",
+      " above 40 years of age"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 1,
+    "question" : "Who is appointed as the Chief Justice of India?",
+    "options" : [
+      " The President appoints the Chief Justice of India on his sole discretion",
+      " The senior-most judge of the Supreme Court is appointed as the Chief Justice of India",
+      " The panel of judges of Supreme Court elect a Chief Justice of India from amongst themselves",
+      " The Chief Justice of India is elected by the voting of Lok Sabha members"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 3,
+    "question" : "What among the following statements is NOT true about the procedure to remove the judge of a Supreme Court of India?",
+    "options" : [
+      " Only 1",
+      " Only 2",
+      " Only 2 and 4",
+      " All are true"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "options" : [
+      " Delhi",
+      " Mumbai",
+      " Chandigarh",
+      " Allahabad"
+    ],
+    "question" : "Where is the declared seat of the Supreme Court situated?",
+    "correct" : 0
+  },
+  {
+    "question" : "Which among the following statements is\/are NOT true?",
+    "count" : 4,
+    "options" : [
+      " Only 1",
+      " Only 1, 2 and 3",
+      " Only 4",
+      " All are true"
+    ],
+    "correct" : 3
+  },
+  {
+    "question" : "Supreme court of India was inaugurated in the year?",
+    "correct" : 2,
+    "options" : [
+      " 1948",
+      " 1949",
+      " 1950",
+      " 1951"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 3,
+    "question" : "Which of the following is not the requisite qualification of Supreme court judges?",
+    "count" : 4,
+    "options" : [
+      " He should be a citizen of India.",
+      " He should have been a high court judge for five years or should have been a high court advocate for ten years.",
+      " He should be a distinguished jurist in the opinion of the president.",
+      " He should be a minimum of 35 years old."
+    ]
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      " Chief justice or Judges of the Supreme Court",
+      " Chief Justice of the High Court",
+      " Distinguished Jurist",
+      " Leader of the opposition of the Lok Sabha"
+    ],
+    "count" : 4,
+    "question" : "In the removal of judges process, the speaker or chairmen of Lok Sabha\/ Rajya Sabha constitute a three-member committee to investigate the charges of misbehaviour or incapacity of judges, which of the following is not a member of the committee?"
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      " Inter-State Water dispute",
+      " Dispute between Centre and one or more states",
+      " Dispute between the centre and one or more states on one side and other states on another side.",
+      " Dispute between two or more states."
+    ],
+    "question" : "Which of the following dispute not come under the Original Jurisdiction of the Supreme court?",
+    "count" : 4
+  },
+  {
+    "options" : [
+      " the UK",
+      " France",
+      " the USA",
+      " Russia"
+    ],
+    "question" : "Doctrine of Judicial review originated from which country?",
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      " the UK",
+      " France",
+      " the USA",
+      " Russia"
+    ],
+    "count" : 4,
+    "question" : "Concept of Judicial Activism originated from which country?"
+  },
+  {
+    "count" : 4,
+    "question" : "The Concept of Public Interest Litigation (PIL) originated from which country?",
+    "options" : [
+      " the UK",
+      " France",
+      " the USA",
+      " Russia"
+    ],
+    "correct" : 2
+  },
+  {
+    "options" : [
+      " 1 and 2\t",
+      " 2 and 3",
+      " 1 and 4\t",
+      " 3 and 4"
+    ],
+    "question" : "Which of the following are included in the original jurisdiction of the Supreme Court? ",
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "question" : "What is the provision to safeguard the autonomy of the Supreme Court of India? (UPSC 2012)",
+    "correct" : 0,
+    "options" : [
+      " 1 and 3 only\t",
+      " 3 and 4 only",
+      " 4 only\t",
+      " 1, 2, 3 and 4"
+    ]
+  },
+  {
+    "correct" : 2,
+    "question" : "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its ",
+    "options" : [
+      " advisory jurisdiction",
+      " appellate jurisdiction",
+      " original jurisdiction",
+      " writ jurisdiction"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      " The President of India",
+      " the Parliament",
+      " The Chief Justice of India",
+      " the Law Commission"
+    ],
+    "question" : "The power to increase the number of judges in the Supreme Court of India is vested in ",
+    "count" : 4,
+    "correct" : 33
+  },
+  {
+    "question" : "Who\/Which of the following is the custodian of the Constitution of India? ",
+    "options" : [
+      " The President of India",
+      " The Prime Minister of India",
+      " The Lok Sabha Secretariat",
+      " The Supreme Court of India"
+    ],
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "question" : "In India, Judicial Review implies ",
+    "options" : [
+      " the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.",
+      " the power of the Judiciary to question the wisdom of the laws enacted by the Legislature.",
+      " the power of the Judiciary to review all the legislative enactments before they are assented to by the President.",
+      " the power of the Judiciary to review its own judgements given earlier in similar or different cases."
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "options" : [
+      " 1 only",
+      " 2 only",
+      " Both 1 and 2",
+      " Neither 1 nor 2"
+    ],
+    "question" : "Consider the following statements",
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "question" : "Given below are two statements ",
+    "correct" : 1,
+    "options" : [
+      " Both [A] and [R] are correct and [R] is the right explanation of [A]",
+      " Both [A] and [R] are correct but [R] is not the correct explanation of [A]",
+      " [A] is correct, but [R] is wrong.",
+      " [A] is wrong, but [R] is correct."
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      " the Chief Justice",
+      " the President",
+      " the Prime Minister",
+      " the Law Minister"
+    ],
+    "question" : "A judge of the Supreme Court may resign his office by writing a letter to (UPPSC 2014)",
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "count" : 4,
+    "question" : "Given below are two statements, one is labelled as Assertion A)  and the other as Reason (R). ",
+    "correct" : 3,
+    "options" : [
+      " Both A and R are true and R is the correct explanation of A.",
+      " Both A and R are true but R is not the correct explanation of A.",
+      " A is true but R is false.",
+      " A is false but R is true."
+    ]
+  },
+  {
+    "question" : "Which one of the following is directly related to the Appellate jurisdiction of the Supreme Court of India?",
+    "correct" : 0,
+    "count" : 4,
+    "options" : [
+      " Appeals made in civil, criminal and constitutional cases",
+      " Appeals made in constitutional cases only",
+      " Adjudication of disputes between the Union and the States",
+      " Adjudication of disputes between the States"
+    ]
+  },
+  {
+    "options" : [
+      " By a Representation from the Supreme Court",
+      " By a Parliamentary Act",
+      " By an Amendment of the Constitution of India",
+      " By a Presidential notification"
+    ],
+    "count" : 4,
+    "question" : "How can the number of judges in the Supreme Court of India be  Increased?      ",
+    "correct" : 1
+  },
+  {
+    "question" : "Which of the following categories of disputes is excluded from the original jurisdiction of the Supreme Court?",
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      " Between the Government of India and one or more States",
+      " Between the Government of India and one or more states on one side and one or more other States on the other",
+      " Between two or more States inter se",
+      " Between residents of two or more states"
+    ]
+  },
+  {
+    "question" : "Which one of the following statements is not correct?",
+    "correct" : 0,
+    "count" : 4,
+    "options" : [
+      "Supreme Court may issue writs for the enforcement of any legal right within the territory of India",
+      "Supreme Court has the power to punish any person for its contempt",
+      "Salary of judges of the Supreme Court is not subject to vote of the legislature",
+      "A retired judge of Supreme Court is prohibited from appearing and pleading in any court within the territory of India"
+    ]
+  },
+  {
+    "options" : [
+      " In its role as the supreme authority in the judicial fields in the country",
+      " In its role as the guardian of the Constitution",
+      " In its advisory role",
+      " In its writ jurisdiction"
+    ],
+    "count" : 4,
+    "question" : "The Supreme Court of India is different from its counterpart in the U.S.A.:",
+    "correct" : 2
+  },
+  {
+    "correct" : 1,
+    "options" : [
+      " Rule of Law",
+      " Procedure established by law",
+      " Due process of Law",
+      " Precedents and conventions"
+    ],
+    "question" : "Which one of the following statements is correct?",
+    "count" : 4
+  },
+  {
+    "correct" : 0,
+    "question" : "Which of the following article empower for “National Emergency”?",
+    "count" : 4,
+    "options" : [
+      " Article 352",
+      " Article 356",
+      " Article 360",
+      " Article 363"
+    ]
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      " War",
+      " External Aggression",
+      " Armed rebellion",
+      " Internal disturbance"
+    ],
+    "question" : "Which of the following is not the basis for the proclamation of “National Emergency”?"
+  },
+  {
+    "correct" : 0,
+    "options" : [
+      " 38th Amendment Act (1975)",
+      " 42nd Amendment Act (1976)",
+      " 44th Amendment Act (1978)",
+      " 101st Amendment Act (2016)"
+    ],
+    "question" : "Which of the following constitutional amendment act made the declaration of National Emergency immune from Judicial review?",
+    "count" : 4
+  },
+  {
+    "question" : "Proclamation of emergency must be approved by both the houses of parliament within?",
+    "count" : 4,
+    "options" : [
+      " 1 month",
+      " 2 months",
+      " 6 months",
+      " 1 year"
+    ],
+    "correct" : 0
+  },
+  {
+    "correct" : 1,
+    "count" : 4,
+    "options" : [
+      " Simple Majority",
+      " Special Majority [ majority of total membership and 2\/3rd of the members of the present and voting;",
+      " Special majority and approval by half of the states’ assembly",
+      " Absolute majority"
+    ],
+    "question" : "Which type of Majority is needed to pass the emergency resolution in Parliament?"
+  },
+  {
+    "question" : "National emergency was not declared in which of the following year?",
+    "options" : [
+      " 1962",
+      " 1971",
+      " 1975",
+      " 1999"
+    ],
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      "1, 3",
+      "1, 2",
+      "2, 3",
+      "All of the above"
+    ],
+    "question" : "Which of the following is\/are true? 1) Part 20 deals with emergency provisions. 2) An Emergency, converts the federal structure into a unitary one without a formal amendment of the Constitution.",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "count" : 4,
+    "question" : "Which of the following is\/are true? 1) Critics claim that emergency provisions undermine the Fundamental Rights. 2) President becomes dictator by emergency provisions as per the critics.",
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "Maximum period of four months",
+      "Maximum one year",
+      "Maximum period of six months",
+      "Indefinite period"
+    ],
+    "count" : 4,
+    "question" : "National emergency remains in operation with approval of the Parliament for -",
+    "correct" : 2
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "All money bills of state compulsorily will be considered and passed only by the parliament",
+      "All the state governments will dissolve and management of the economy will be taken over the union government",
+      "It can be passed by a simple majority",
+      "All the state assemblies will be put under suspension and laws on the state list will be enacted by parliament"
+    ],
+    "question" : "In case of declaration of financial emergency -"
+  },
+  {
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "None of the above"
+    ],
+    "count" : 4,
+    "correct" : 2,
+    "question" : "Which of the following is\/are true? 1) Maximum period for President’s Rule is 3 years. 2) President’s Rule doesn’t affect Fundamental Rights of citizens as opposed to National Emergency."
+  },
+  {
+    "count" : 4,
+    "question" : "Which of the following state has had the President’ Rule imposed for a maximum number of times?",
+    "correct" : 0,
+    "options" : [
+      "Kerala",
+      "Punjab",
+      "Bihar",
+      "Manipur"
+    ]
+  },
+  {
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "question" : "Which of the following is\/are true? 1) President can declare internal emergency on grounds of internal disturbance. 2) The President can proclaim a national emergency only after receiving a written recommendation from the cabinet.  3) The 42nd Amendment Act of 1976 enabled the president to limit the operation of a National Emergency to a specified part of IndiA) 4) President can declare a national emergency even before the actual occurrence of war or external aggression.",
+    "correct" : 0,
+    "count" : 4
+  },
+  {
+    "question" : "Which of the following sentence\/sentences is\/are correct? 1) During National Emergency, life of the Lok Sabha may be extended for one year at a time. 2) Fundamental Rights under Article 19 can be suspended only when the National Emergency is declared on the ground of war.",
+    "correct" : 2,
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "1, 3",
+      "2, 3, 4",
+      "1, 3, 4",
+      "1, 2"
+    ],
+    "correct" : 2,
+    "question" : "Which of the following is\/are true regarding effects of National Emergency on Centre-State relations? 1) During normal times the President has power to give directions to the states on all the matters. 2) During emergency, legislative power of state legislature is suspendeD) 3) During emergency, the President can issue ordinances on the state subjects. 4) During emergency, President may modify distribution of financial resources between the center and the state.",
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Article 19 is suspended in that state.",
+      "Assembly of that state is dissolved automatically.",
+      "The president can also get powers of the state high courts.",
+      "Parliament assumes the power to legislate on subject in the state list."
+    ],
+    "count" : 4,
+    "correct" : 35,
+    "question" : "If president of India exercises his power under article 356 of the constitution in the respect of a particular state, then -"
+  },
+  {
+    "question" : "Which of the following constitutional amendments equipped President to impose National Emergency on any particular part of India?",
+    "options" : [
+      "38th",
+      "40th",
+      "42nd",
+      "62nd"
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "question" : "When was the word \"armed rebellion\" added to the Constitution to declare a National Emergency?",
+    "options" : [
+      "After 44th Constitution Amendment Act",
+      "After 42nd Constitution Amendment Act",
+      "After 40th Constitution Amendment Act",
+      "After 38th Constitution Amendment Act"
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "question" : "How soon imposition of National Emergency should be approved by the Parliament?",
+    "options" : [
+      "1 month",
+      "2 months",
+      "6 months",
+      "3 months"
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "question" : "If the announcement of the National Emergency has been approved by both Houses of Parliament, how long will it be effective?",
+    "correct" : 2,
+    "options" : [
+      "1 month",
+      "2 months",
+      "6 months",
+      "3 months"
+    ]
+  },
+  {
+    "question" : "Which kind of emergency will be imposed in the case of war, external aggression and armed rebellion?",
+    "correct" : 1,
+    "count" : 4,
+    "options" : [
+      "356",
+      "352",
+      "360",
+      "None of the following"
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "How many times have the financial emergency imposed in India?",
+    "options" : [
+      "1",
+      "2",
+      "3",
+      "Never"
+    ],
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "Article 19",
+      "Article20",
+      "Article21",
+      "Both b and c"
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "Which of the following Fundamental Rights do not get abolished automatically during National Emergency?"
+  },
+  {
+    "question" : "Which of the following statements is not true?",
+    "count" : 4,
+    "options" : [
+      "The Fundamental Rights of Article 19 are susepnded automatically during National Emergency declared on the basis of war or external aggression .",
+      "The Fundamental Rights of Article 19 can not be suspended in the case of National Emergency declared on the basis of armed rebellion.",
+      "Article 19 automatically revives when the National Emergency is over.",
+      "When a National Emergency is enforced, the Fundamental Rights of Article 19 are repealed after the President's order."
+    ],
+    "correct" : 3
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct" : 1,
+    "question" : "How many times have the National Emergency been implemented in India?"
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "President's Rule",
+      "State emergency",
+      "Constitutional emergency",
+      "All"
+    ],
+    "correct" : 3,
+    "question" : "Which of the following is a synonym of emergency?"
+  },
+  {
+    "options" : [
+      " 1 & 2 only ",
+      " 1, 2 & 3 only",
+      " 3 only ",
+      " None of the above"
+    ],
+    "count" : 4,
+    "correct" : 3,
+    "question" : "Consider the following statement in context Emergency provisions. (1) Emergency due to war, external aggression or armed rebellion that popularly known as National Emergency comes under Art. 356.  (2) An Emergency due to the failure of the constitutional Machinery in the states comes under Article 360. (3) Financial Emergency due to a threat to the financial stability or credit of India that popularly known as President Rule in the country comes under Article 352. "
+  },
+  {
+    "options" : [
+      " 1, 3 & 4 only ",
+      " 2 & 4 only",
+      " 1, 2 & 3 only ",
+      " All of the above"
+    ],
+    "correct" : 3,
+    "question" : "Consider the following statement. (1) The 42nd Amendment Act of 1976 enabled the President of limit the operation of a National Emergency to a specified part of IndiA) (2) 44th Amendment Act of 1978 substituted the word ‘armed Rebellion’ for internal disturbance. (3) When a National emergency is declared on the ground of war or external aggression it is known as ‘External Emergency’. (4) When National emergency declared on the ground of ‘armed rebellion’ it is known as ‘Internal Emergency’. Which of the statement given above is \/ are correct.",
+    "count" : 4
+  },
+  {
+    "correct" : 2,
+    "question" : "Consider the following statement on context of Emergency provisions. 1) The proclamation of Emergency must be approved by both the house of parliament within 15 days from the date of its issue. 2) The period allowed for approval by the Parliament was two months before the 44th Amendment Act of 1978. 3) If approved by both the house of Parliament the emergency continues for six months and can be extended to an indefinite period with an approval of the parliament for every six months. 4) its continuance must be passed by both house of parliament by a special majority. Which of the statement given above is \/ are correct.",
+    "count" : 4,
+    "options" : [
+      " 1 & 2 only ",
+      " 1, 2 & 4 only",
+      " 2, 3 & 4 only ",
+      " All of the above"
+    ]
+  },
+  {
+    "options" : [
+      " 1 only ",
+      " 2 only",
+      " Both 1 & 2 ",
+      " Neither 1 nor 2"
+    ],
+    "question" : "Consider the following statements: 1) The Rajya Sabha alone has the power to declare that it would be in national interest for the parliament to legislate with respect to a matter in the state list. 2) Resolution approving the proclamation of Emergency are passed only by the Lok Sabha.",
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      " Australia ",
+      " USSR ",
+      " UK ",
+      " Germany "
+    ],
+    "question" : "Emergency power are influenced from constitution of which country ",
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "Constitution handles emergencies related to ",
+    "correct" : 3,
+    "options" : [
+      " National ",
+      " Constitutional ",
+      " Financial ",
+      " All "
+    ]
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      " Armed rebellion ",
+      " War ",
+      " External aggression ",
+      " All"
+    ],
+    "question" : "National emergency can be declared due to? "
+  },
+  {
+    "count" : 4,
+    "options" : [
+      " A proclamation can be issued by the president for different grounds. ",
+      " It can be issued when an already existing proclamation is in force too. ",
+      " It can apply to entire country or a part. ",
+      " all "
+    ],
+    "correct" : 3,
+    "question" : "Which is true regarding proclamation declaring emergency? "
+  },
+  {
+    "question" : "Which is true regarding President's proclamation declaring National emergency? ",
+    "correct" : 2,
+    "count" : 4,
+    "options" : [
+      " The president can declare this only after written recommendation of the entire cabinet ",
+      " A proclamation can be subject to judicial review. ",
+      " A proclamation must be approved by both houses within one month by a special majority. ",
+      " all "
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "Which is true regarding revocation of President's proclamation? ",
+    "correct" : 3,
+    "options" : [
+      " A proclamation can be revoked by president anytime. ",
+      " doesn’t need parliament ratification ",
+      " Lok Sabha can force a revocation by disapproving it with a simple majority ",
+      " all "
+    ]
+  },
+  {
+    "count" : 4,
+    "options" : [
+      " Centre can issue executive directions to states on any matters. ",
+      " parliament can make laws on matters in the state list ",
+      " both a and b ",
+      " none "
+    ],
+    "question" : "Effects of national emergency ",
+    "correct" : 2
+  },
+  {
+    "options" : [
+      " Right to Freedom, are automatically suspended ",
+      " a presidential order can be passed disallowing people from seeking judicial remedy to enforce other fundamental rights ",
+      " both ",
+      " none "
+    ],
+    "count" : 4,
+    "question" : "Which is true regarding the effect of national emergency on Fundamental rights ",
+    "correct" : 2
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      " When the constitutional machinery breaks down in a state, the president rule is imposed by centre. ",
+      " This can be proclaimed if the president is satisfied that the governance of a state can’t be carried in accordance with the constitution. ",
+      " both ",
+      " none "
+    ],
+    "question" : "Which is true regarding Constitutional emergencies ",
+    "count" : 4
+  },
+  {
+    "question" : "What is true regarding declaration of constitutional emergency? ",
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      " president can act with or without the governor’s report ",
+      " when a state doesn’t follow any directive from the centre, president’s rule can be imposeD) ",
+      " both ",
+      " none "
+    ]
+  },
+  {
+    "question" : "Beyond the first year, president’s rule can be extended 6 months at a time only if ",
+    "count" : 4,
+    "options" : [
+      " national emergency is proclaimed in the country or any part of the state. ",
+      " Election commission certifies that elections can’t be held in the state ",
+      " both ",
+      " none "
+    ],
+    "correct" : 2
+  },
+  {
+    "question" : "Which is true with regards to the revocation of president's rule? ",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      " Presidents proclamation can be revoked by president anytime ",
+      " Parliament on its own can’t revoke president’s rule. ",
+      " both ",
+      " none "
+    ]
+  },
+  {
+    "question" : "Which is applicable to financial emergency ",
+    "count" : 4,
+    "options" : [
+      " Such a proclamation has to be approved by a simple majority in both houses. ",
+      " financial stability or credit of India or any part of the state is in danger ",
+      " His satisfaction is subject to judicial review. ",
+      " all "
+    ],
+    "correct" : 3
+  },
+  {
+    "count" : 4,
+    "question" : "Effect of the Financial Emergency ",
+    "correct" : 2,
+    "options" : [
+      " Once approved it continues indefinitely ",
+      " President can revoke this proclamation anytime; this doesn’t need parliament’s approval. ",
+      " both ",
+      " none "
+    ]
+  },
+  {
+    "options" : [
+      " centre can ask states to observe canons of financial propriety. ",
+      " It can direct that money bills or financial bills of state should need president’s assent. ",
+      " both ",
+      " none "
+    ],
+    "question" : "Which is true regarding financial emergency ",
+    "correct" : 2,
+    "count" : 4
+  },
+  {
+    "correct" : 1,
+    "count" : 4,
+    "question" : "Which of the following is\/are true regarding constitutional position of Governor of the state? 1) Reservation of a bill for the consideration of the President is by discretion of the Governor. 2) Recommendation of the imposition of the President’s Rule in the state is not as per the discretion of the Governor. 3) Ministerial advice is not binding on the Governor.",
+    "options" : [
+      "1",
+      "1, 3",
+      "2, 3",
+      "2"
+    ]
+  },
+  {
+    "options" : [
+      "1, 2",
+      "1, 2. 4",
+      "2,3",
+      "All  "
+    ],
+    "correct" : 0,
+    "count" : 4,
+    "question" : "Which of the following is\/are true regarding special responsibilities of the Governor? 1) Regarding Assam it is with respect to the administration of tribal areas. 2) Regarding Arunachal Pradesh it is with respect to law and order in the state. 3) Regarding Nagaland it is with respect to development of tribal areas. 4) Regarding Karnataka it is with respect to law and order related to formation of Telangana."
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "count" : 4,
+    "question" : "What is\/are true regarding term of Governor’s office? 1) Governor has no security of tenure. 2) Governor holds office for a term of five years."
+  },
+  {
+    "options" : [
+      "1,3",
+      "1,2",
+      "2,3",
+      "All  "
+    ],
+    "question" : "Which of the following is\/are true regarding conditions of office of the Governor? 1) For Governor of two states the emoluments are divided amongst the states as decided by the President. 2) Governor, during his term, cannot be arrested or imprisonment for criminal proceedings. 3) The oath of office to the Governor is administered by the Chief Justice of the concerned State High Court.",
+    "correct" : 3,
+    "count" : 4
+  },
+  {
+    "options" : [
+      "1, 2",
+      "1, 3",
+      "2",
+      "All "
+    ],
+    "question" : "Which statements are true regarding legislative powers of the Governor? 1) Governor can reserve bill for Presidents consideration when it opposes a Directive Principle of State Policy. 2) Governor calls for joint sitting of both the houses of state legislature (in case of bi-cameral legislature). 3) He nominates 1 Anglo-Indian to the state legislative assembly.",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "What are executive, financial and judicial powers of the Governor? 1) Governor cannot remove members of State Public Service Commission. 2) President consults him while appointing the judges of the concerned State High Court. 3) Governor appoints people to the judicial service of the state.",
+    "correct" : 3,
+    "options" : [
+      "2",
+      "1",
+      "2, 3",
+      "All "
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "Which of the following is\/are true regarding the appointment of the Governor? 1) Feature of appointing the Governor has been taken from the Irish Constitution. 2) Constitution provides only 2 qualifications for a person who can be appointed as a Governor.",
+    "correct" : 1,
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ]
+  },
+  {
+    "count" : 4,
+    "question" : "Which of the following is\/are true regarding the President and the Governor? 1) President and Governor can pardon a death sentence. 2) Governor always needs instructions from the President for issuing ordinances.",
+    "options" : [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "Article 169",
+      "Article 200",
+      "Article 201",
+      "Article 202"
+    ],
+    "count" : 4,
+    "question" : "Under which of the following Article of Indian Constitution the Governor may reserve a Bill for the consideration of the President?",
+    "correct" : 1
+  },
+  {
+    "correct" : 0,
+    "count" : 4,
+    "question" : "Who remains in office as long as the President of India wishes?",
+    "options" : [
+      "Governor",
+      "Election Commissioner",
+      "Judges of Supreme Court",
+      "Speaker of Lok Sabha"
+    ]
+  },
+  {
+    "options" : [
+      "The President",
+      "The Governor of a State",
+      "The Chief Justice of India",
+      "The Vice-President of India"
+    ],
+    "question" : "The Constitution of India does not contain any provision for the impeachment of _______.",
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "Chief Minister",
+      "Governor",
+      "Speaker",
+      "High Court Judge"
+    ],
+    "question" : "Who is the Constitutional Head of the State Governments?",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "question" : "The first lady to become Governor of a State in India?",
+    "options" : [
+      "Raj Kumari Amrit Kaur",
+      "Padmaja Naidu",
+      "Sarojini Naidu",
+      "Serla Grewal"
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      "The Chief Minister of Jammu and Kashmir",
+      "The Chief Justice of High Court of Jammu and Kashmir",
+      "The Prime Minister of India",
+      "The President of India"
+    ],
+    "question" : "Who appoints the Lt. Governor of Jammu and Kashmir?",
+    "count" : 4
+  },
+  {
+    "question" : "Who amongst the following administers the oath of office to the Governor?",
+    "count" : 4,
+    "options" : [
+      "President of India",
+      "Chief Justice of Supreme Court",
+      "Chief Justice of High Court",
+      "Outgoing Governor of the concerned State"
+    ],
+    "correct" : 2
+  },
+  {
+    "correct" : 2,
+    "question" : "Which one of the following statements about the Governor of an Indian State is not true?",
+    "options" : [
+      "Chief Minister",
+      "Members, State Public Service Commission",
+      "Judges of High Court",
+      "Advocate General"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Which one of the following statements is correct? ",
+    "correct" : 2,
+    "options" : [
+      "In India, the same person cannot be appointed as Governor for two or more states at the same time",
+      "The Judges of the High Court of the States in India are appointed by the Governor of the State just as the Judges of the Supreme Court are appointed by the President",
+      "No procedure has been laid down in the Constitution of India for the removal of a Governor from his\/her post",
+      "In the case of the Union Territory having a Legislative set up the Chief Minister is appointed by the Lt. Governor on the basis of majority support"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "correct" : 0,
+    "question" : "The governor of the state, may act independently from the consultation of the Legislative Assembly when (1) The Government has to prove its majority in the session of Legislative Assembly. (2) To terminate the Chief Minister. (3) To reserve any bill for the consideration of the President of IndiA) (4) To send back a bill to Legislative Assembly for reconsideration. (5) To seek the consultation with High Court. Choose the correct answer from the following code.",
+    "options" : [
+      "1, 2, 3 and 4",
+      "2, 3, 4 and 5",
+      "1, 2, 4 and 5",
+      "All "
+    ]
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "By President",
+      "By the State Legislature",
+      "By the Ministers of Council of State",
+      "None  "
+    ],
+    "correct" : 1,
+    "question" : "The approval of ordinance promulgated by Governor is necessary ______."
+  },
+  {
+    "question" : "Consider the following statements in relation to the Governor of a State in IndiA) (1) He must be a citizen of India by birth. (2) Must have completed the age of 35 years. (3) He must be eligible to be a member of the Lok SabhA) (4) He may be appointed as Governor for two or more states. Which of these is\/are correct?",
+    "options" : [
+      "1 and 2 are correct",
+      "1, 2, and 3 are correct",
+      "1, 2, and 4 are correct",
+      "2 and 4 are correct"
+    ],
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "question" : "State Governor is appointed by ________.",
+    "options" : [
+      "Central Cabinet",
+      "Chief Justice of Supreme Court",
+      "Speaker of Lok Sabha",
+      "President of India"
+    ]
+  },
+  {
+    "question" : "Consider the following and select the correct answer by using the code given below. (1) The Governor shall take oath or affirmation before entering upon his office. (2) The format of oath or affirmation is given in the Third Schedule of the Indian Constitution. (3) The Governor shall make and subscribe the oath or affirmation in the presence of the Chief Justice of the High Court or in his absence senior-most Judge of that Court. (4) The process of oath and affirmation is given in Article 159 of Indian Constitution.",
+    "options" : [
+      "1, 2 and 3",
+      "1, 3 and 4",
+      "1, 2 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "1 and 2 are correct",
+      "1 and 3 are correct",
+      "2 and 4 are correct",
+      "All are correct"
+    ],
+    "count" : 4,
+    "question" : "Consider the following statements and select your answer from the codes given below. (1) The Governor does not have the power to appoint the judge of a state High Court.  (2) He is not a part of the Legislature. (3) He has the power to nominate some members in the Legislative Council. (4) He has no judicial powers.",
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "He is a part of the State Legislature",
+      "He can pardon a sentence of death",
+      "He does not appoint Judges of the State High Court",
+      "He has no Emergency powers"
+    ],
+    "question" : "Which one of the following Statements about the State Governors is not true?",
+    "count" : 4,
+    "correct" : 1
+  },
+  {
+    "options" : [
+      "Only 1 and 2",
+      "Only 1 and 3",
+      "Only 2, 3 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "count" : 4,
+    "correct" : 1,
+    "question" : "Which of the following are the discretionary powers given to the Governor of a State? (1) Sending a report to the President of India for imposing the President’s Rule.(2)  Appointing the Ministers. (3) Reserving certain bills passed by the State Legislature for consideration of the President of IndiA) (4) Making rules to conduct the business of the State Government. Select the correct answer using the codes given below. "
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "1 and 2",
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "All "
+    ],
+    "question" : "The Governor of a State (1) Is appointed by the President. (2) Holds office during the pleasure of the President. (3) Is the head of the State’s Executive Power. (4) Normally holds office for five years. Select the correct answer from the codes given below."
+  },
+  {
+    "options" : [
+      "Prime Minister",
+      "President",
+      "Legislative Assembly",
+      "Chief Minister"
+    ],
+    "correct" : 1,
+    "count" : 4,
+    "question" : "To whom is the Governor of a State responsible? "
+  },
+  {
+    "question" : "Given below are two statement, one is labeled as Assertion A) and other is labeled as Reason (R). Choose the correct answer from code given below. Assertion (A): “The President or a Governor cannot be sued in a Court of law for any act”. Reason (R): “The President can be impeached and the Governors may be dismissed for unconstitutional acts done”. Select the correct answer using the code given below.",
+    "count" : 4,
+    "options" : [
+      "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "correct" : 1
+  },
+  {
+    "question" : "Which article of Indian constitution deals with constitutional amendments?",
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Article 332",
+      "Article 386",
+      "Article  368",
+      "None of the above"
+    ]
+  },
+  {
+    "question" : "In which Constitutional Amendment Act, Goa was made a full fledged State with a State assembly?",
+    "options" : [
+      "43rd Constitutional Amendment Act, 1977",
+      "44th Constitutional Amendment Act, 1978",
+      "56th Constitutional Amendment Act, 1987",
+      "57th Constitutional Amendment Act, 1987"
+    ],
+    "correct" : 2,
+    "count" : 4
+  },
+  {
+    "correct" : 1,
+    "question" : "In which Constitutional Amendment Act An authoritative text of the Constitution in Hindi was provided to the people of India by the President?",
+    "options" : [
+      "57th Constitutional Amendment Act, 1987",
+      "58th Constitutional Amendment Act, 1987",
+      "59th Constitutional Amendment Act, 1988",
+      "61st Constitutional Amendment Act, 1988"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "93rd Constitutional Amendment Act, 2005",
+      "92nd Constitutional Amendment Act, 2003",
+      "94th Constitutional Amendment Act, 2006",
+      "95th Constitutional Amendment Act, 2009"
+    ],
+    "count" : 4,
+    "correct" : 0,
+    "question" : "Which Constitutional Amendment Act, provided reservation in admissions in private unaided educational institutions for students belonging to scheduled castes\/tribes and other backward classes?"
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "54th",
+      "36th",
+      "62th",
+      "61st"
+    ],
+    "question" : "Which constitutional amendment reduced the voting rights from 21 years to 18 years?",
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "89th",
+      "92nd",
+      "90th",
+      "95th"
+    ],
+    "count" : 4,
+    "correct" : 1,
+    "question" : "Under which constitutional amendment Bill, four languages: Bodo, Dogri, Maithali and Santhali are added in the 8th schedule of the Indian constitution."
+  },
+  {
+    "correct" : 3,
+    "options" : [
+      "45th Amendment",
+      "50th  Amendment",
+      "47th  Amendment",
+      "42nd Amendment"
+    ],
+    "count" : 4,
+    "question" : "Which of the following amendment was passed during the emergency?"
+  },
+  {
+    "options" : [
+      "40th Amendment",
+      "42nd Amendment",
+      "44th Amendment",
+      "46th Amendment"
+    ],
+    "count" : 4,
+    "question" : "In which of the following amendment the term of Lok Sabha increased from 5 to 6 years?",
+    "correct" : 1
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "question" : "Which of the following is true about the constitution (42nd amendment) Act, 1976.",
+    "options" : [
+      "Precedence to directive principles over fundamental rights",
+      "Fundamental duties are included",
+      "Constitutional amendment should not be questioned in any court",
+      "All  "
+    ]
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "87th amendment, 2003",
+      "86th amendment, 2002",
+      "88th Amendment, 2003",
+      "89th Amendment, 2003"
+    ],
+    "correct" : 1,
+    "question" : "Which of the following amendment Act makes the right to education as the fundamental right to all the children under the age of 6-14 years by inserting Article 21A to the constitution."
+  },
+  {
+    "question" : "Which of the following words were added to the Indian constitution by 42nd amendment –",
+    "correct" : 1,
+    "options" : [
+      "federal",
+      "socialist secular",
+      "democratic",
+      "republic"
+    ],
+    "count" : 4
+  },
+  {
+    "correct" : 1,
+    "count" : 4,
+    "question" : "Which of the following articles deals with the amendment to our constitutions –",
+    "options" : [
+      "356",
+      "368",
+      "370",
+      "372"
+    ]
+  },
+  {
+    "question" : "Indian constitution was amended for the first time in –",
+    "options" : [
+      "1950",
+      "1951",
+      "1953",
+      "1952"
+    ],
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "question" : "The 44th amendment modifies or nullifies a number of provisions of which amendment –",
+    "correct" : 1,
+    "count" : 4,
+    "options" : [
+      "43rd",
+      "42nd",
+      "41st",
+      "40th"
+    ]
+  },
+  {
+    "count" : 4,
+    "correct" : 0,
+    "question" : "Of all the amendments in the Indian constituiton the most comprehensive and controversial amendment was –",
+    "options" : [
+      "42nd",
+      "43rd",
+      "44th",
+      "45th"
+    ]
+  },
+  {
+    "question" : "Which amendment bill is proposed to grant statehood to Delhi –",
+    "options" : [
+      "44th",
+      "70th",
+      "69th",
+      "77th"
+    ],
+    "correct" : 2,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "By which amendment did the Parliament lower the voting age from 21 to 18 years –",
+    "correct" : 2,
+    "options" : [
+      "42nd",
+      "44th",
+      "61st",
+      "73rd"
+    ]
+  },
+  {
+    "question" : "The Panchayati raj system was adopted to –",
+    "correct" : 1,
+    "count" : 4,
+    "options" : [
+      "make people aware of politics",
+      "decentralise the power of democracy",
+      "educate the peasants",
+      "none"
+    ]
+  },
+  {
+    "options" : [
+      "70th",
+      "72nd",
+      "73rd",
+      "68th"
+    ],
+    "count" : 4,
+    "question" : "The historic panchayati raj bill was adopted by the Parliament in 1992 as which amendment –",
+    "correct" : 2
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "property tax",
+      "house tax",
+      "land tax",
+      "vehicles tax"
+    ],
+    "question" : "Which of the following is not a source of revenue to the village panchayats –"
+  },
+  {
+    "count" : 4,
+    "question" : "In which constitutional amendment, the ninth Schedule was added to protect the land reform law from Judicial Review?",
+    "options" : [
+      "1st",
+      "8th",
+      "9th",
+      "10th"
+    ],
+    "correct" : 0
+  },
+  {
+    "question" : "In which constitutional amendment act, four categories( Part A, B, C, D) of states were abolished and recognized 14 states and 6 Union?",
+    "count" : 4,
+    "options" : [
+      "7th",
+      "8th",
+      "9th",
+      "10th"
+    ],
+    "correct" : 0
+  },
+  {
+    "correct" : 0,
+    "count" : 4,
+    "options" : [
+      "7th",
+      "8th",
+      "9th",
+      "10th"
+    ],
+    "question" : "In which constitutional amendment act, empower the establishment of a common high court for two or more states?"
+  },
+  {
+    "question" : "Which of the following Constitutional Amendment Acts made it compulsory for the president to give his assent to a constitutional amendment bill?",
+    "count" : 4,
+    "options" : [
+      "41st CAA (1976)",
+      "42nd CAA (1976)",
+      "43rd CAA (1977)",
+      "44th CAA (1978)"
+    ],
+    "correct" : 0
+  },
+  {
+    "question" : "Anti-defection law was made in which constitutional amendment act?",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "52nd CAA 1985",
+      "61st CAA 1989",
+      "71st CAA 1992",
+      "73rd CAA 1992"
+    ]
+  },
+  {
+    "correct" : 0,
+    "count" : 4,
+    "question" : "Which constitutional act made elementary education a fundamental right?",
+    "options" : [
+      "86th CAA 2002",
+      "87th CAA 2003",
+      "91st CAA 2003",
+      "92nd CAA 2003"
+    ]
+  },
+  {
+    "question" : "Which of the following constitutional amendment is related to Goods and Services Tax(GST):",
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "100th CAA 2015",
+      "101 st  CAA 2016",
+      "102nd  CAA 2018",
+      "103rd  CAA 2019"
+    ]
+  },
+  {
+    "question" : "Consider the following statements regarding Article 368 of the Constitutional amendment bill; 1. Constitutional amendment bills can be initiated only in Lokasabha; not in Rajya Sabha. 2. The bill can be introduced either by the minister or by a private member. 3. The bill does not require prior permission from President. 4. The bill must be passed in each house with a special majority means 50 % of the total membership of the house and 2\/3rd of the member of the house present and voting. Which of the above statements is correct;",
+    "options" : [
+      "1 and 2 only",
+      "1,2, and 3 only",
+      "2,3, and 4 only",
+      "1,2,3, and 4 only"
+    ],
+    "count" : 4,
+    "correct" : 2
+  },
+  {
+    "question" : "A simple majority requires more votes in favor than against among the members present and voting. Constitution can be amended in three way; 1. By the simple majority of parliament. 2. By the special majority of parliament. 3. By the special majority of parliament and ratification of half of the state legislative. Which of the above amendments comes under Article 368.",
+    "count" : 4,
+    "options" : [
+      "1and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2, and 3 only"
+    ],
+    "correct" : 2
+  },
+  {
+    "question" : "Procedure laid down for amendment of the Indian constitution is based on which constitution of the world?",
+    "options" : [
+      "the UK",
+      "the USA",
+      "Synthesis of UK and USA",
+      "Japan"
+    ],
+    "correct" : 2,
+    "count" : 4
+  },
+  {
+    "question" : "Article 368, amending procedure of constitution is mentioned in which part of the Indian constitution?",
+    "options" : [
+      "Part X",
+      "Part VI",
+      "Part IX",
+      "Part XX"
+    ],
+    "count" : 4,
+    "correct" : 3
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "Rajya Sabha Only",
+      "Lok Sabha Only",
+      "Either Rajya Sabha or Lok Sabha",
+      "Either Parliament or State Legislatures"
+    ],
+    "question" : "An amendment of the constitution can be initiated only in?"
+  },
+  {
+    "count" : 3,
+    "question" : "Which of the following statement is false regarding the Constitutional Amendment bill?",
+    "options" : [
+      "It can be introduced by the minister.",
+      "Introduction of the constitutional amendment bill does not require prior permission from the president.",
+      "There is a provision for holding a joint sitting of the two houses in case of disagreement."
+    ],
+    "correct" : 2
+  },
+  {
+    "question" : "Which of the following amendment require only a simple majority of parliament?",
+    "options" : [
+      "Election of the president.",
+      "Emoluments, allowances, and privileges of the president.",
+      "Executive power of the Union and the states.",
+      "Representation of states in Parliament."
+    ],
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "question" : "Which of the following statements regarding the 74th Amendment to the Constitution of India are correct? 1. It provides the insertion of a new Schedule to the constitution. 2. It restructures the working of Municipalities 3. It provides the reservation of seats for women in Municipalities 4. It is applicable only to some specified states.Select the correct answer from the codes given below:",
+    "options" : [
+      "1,2, and 3 are correct",
+      "1,2, and 4 are correct",
+      "1,3, and 4 are correct",
+      "2,3, and 4 are correct"
+    ],
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "correct" : 0,
+    "question" : "By which constitutional amendment act the number of Central Ministers has been limited to 15% of the total number of members of the Lok Sabha? ",
+    "options" : [
+      "91st Amendment",
+      "92nd Amendment",
+      "90th Amendment",
+      "None  "
+    ]
+  },
+  {
+    "question" : "Which Article in the Indian Constitution deals with the topic of state legislature?",
+    "options" : [
+      "Article 22",
+      "Article 168",
+      "Article 380",
+      "Article 25"
+    ],
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "correct" : 1,
+    "question" : "How many Indian States have a bicameral legislature ",
+    "options" : [
+      "7",
+      "6",
+      "5",
+      "3"
+    ],
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Andhra Pradesh",
+      "Telangana",
+      "Jammu",
+      "Uttar Pradesh"
+    ],
+    "count" : 4,
+    "question" : "Which of the following states does not have a legislative assembly?",
+    "correct" : 2
+  },
+  {
+    "question" : "What does special majority mean in state legislatures?",
+    "options" : [
+      "Two-thirds of present and voting members must vote yes, and this number must also constitute the majority of the total capacity of membership of that House",
+      "Two-thirds of present and voting members must vote yes",
+      "Two-thirds of present and voting members must vote yes, and there should also be two-thirds majority of the total capacity of membership of that House",
+      "All  "
+    ],
+    "correct" : 0,
+    "count" : 4
+  },
+  {
+    "question" : "Which is the smallest legislative assembly (capacity) in India?",
+    "options" : [
+      "Goa",
+      "Telangana ",
+      "Chattisgarh",
+      "Sikkim"
+    ],
+    "count" : 4,
+    "correct" : 0
+  },
+  {
+    "count" : 4,
+    "correct" : 1,
+    "question" : "Which state has the largest legislative assembly capacity wise in India?",
+    "options" : [
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Karnataka"
+    ]
+  },
+  {
+    "options" : [
+      "25",
+      "30",
+      "35",
+      "20"
+    ],
+    "count" : 4,
+    "question" : "What is the minimum age for the membership of the state legislative assembly?",
+    "correct" : 0
+  },
+  {
+    "question" : "Who decides on the disqualification of the members of the legislative assembly?",
+    "correct" : 0,
+    "count" : 4,
+    "options" : [
+      "Speaker of legislative assembly",
+      "Governor",
+      "Chief Minister",
+      "None of the above "
+    ]
+  },
+  {
+    "question" : "What must be the maximum gap in the two sessions of the state legislature?",
+    "count" : 4,
+    "options" : [
+      "6 months ",
+      "9 months ",
+      "3 months ",
+      "4 months"
+    ],
+    "correct" : 0
+  },
+  {
+    "question" : "If the legislative assembly dissolves while any bill is pending, then what becomes of the bill?",
+    "count" : 4,
+    "correct" : 0,
+    "options" : [
+      "Bill lapses",
+      "Bill remains till another session",
+      "The Bill is sent to legislative council",
+      "None "
+    ]
+  },
+  {
+    "correct" : 0,
+    "question" : "Which is the Upper Chamber of State Legislature in India?",
+    "count" : 4,
+    "options" : [
+      "Legislative Council",
+      "Legislative Assembly",
+      "Governor’s Office",
+      "None of the above"
+    ]
+  },
+  {
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "1\/10 of the total members",
+      "1\/8 of the total members",
+      "1\/7 of the total members",
+      "1\/6 of the total members"
+    ],
+    "question" : "How many members are nominated in the Legislative Council of Uttar Pradesh by the State Governor?"
+  },
+  {
+    "question" : "Which one of the following is the period for the Legislative Council to detain the ordinary bills?",
+    "correct" : 1,
+    "options" : [
+      "3 months",
+      "4 months",
+      "6 months",
+      "14 days"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Which one of the following cannot be dissolved but can be abolished?",
+    "correct" : 3,
+    "count" : 4,
+    "options" : [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "State Legislative Assemblies",
+      "State Legislative Councils"
+    ]
+  },
+  {
+    "options" : [
+      "He is normally selected by the Governor",
+      "He is formally appointed by the Governor",
+      "He is chosen by the members of the majority party in the Legislative Assembly",
+      "His continuance is office depends upon many factors"
+    ],
+    "count" : 4,
+    "question" : "Which one of the following statements about the Chief Minister is not correct?",
+    "correct" : 0
+  },
+  {
+    "options" : [
+      "Maharashtra",
+      "Bihar",
+      "Karnataka",
+      "Madhya Pradesh"
+    ],
+    "count" : 4,
+    "question" : "Which one of the following states of India does not have a Legislative Council so for even though the Constitution (Seventh Amendment) Act, 1956 provides for it?",
+    "correct" : 3
+  },
+  {
+    "options" : [
+      "Article 163",
+      "Article 164",
+      "Article 165",
+      "Article 166"
+    ],
+    "question" : "According to which Article of the Constitution of India, the Chief Minister is appointed by the Governor of a State?",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Tamil Nadu",
+      "Uttar Pradesh",
+      "Karnataka",
+      "Bihar"
+    ],
+    "correct" : 0,
+    "question" : "Which of the following States does not have Bi-cameral Legislature?"
+  },
+  {
+    "question" : "In which assembly of States, money Bills are proposed?",
+    "count" : 4,
+    "options" : [
+      "Any one of the two",
+      "Together in both",
+      "Only in Legislative Assembly",
+      "Only in upper chamber"
+    ],
+    "correct" : 2
+  },
+  {
+    "question" : "In which of the following States Legislative councils does not exist?",
+    "count" : 4,
+    "options" : [
+      "Bihar",
+      "Maharashtra",
+      "Rajasthan",
+      "Karnataka"
+    ],
+    "correct" : 2
+  },
+  {
+    "correct" : 1,
+    "count" : 4,
+    "question" : "No money Bill can be introduced in the Assembly of a State, except on the recommendations of _________.",
+    "options" : [
+      "The Parliament",
+      "The Governor of the State",
+      "The President of India",
+      "A special Committee of Ministers"
+    ]
+  },
+  {
+    "question" : "Which one of the following States does not have a bi-cameral legislature?",
+    "correct" : 1,
+    "options" : [
+      "U.P.",
+      "M.P.",
+      "Bihar",
+      "Karnataka"
+    ],
+    "count" : 4
+  },
+  {
+    "question" : "Which Article of the Indian Constitution provides the provision of Vidhan Parishad in the State?",
+    "count" : 4,
+    "correct" : 1,
+    "options" : [
+      "Article 170",
+      "Article 171",
+      "Article 172",
+      "Article 173"
+    ]
+  },
+  {
+    "options" : [
+      "Article 170",
+      "Article 176",
+      "Article 178",
+      "None of these"
+    ],
+    "question" : "Which of the following Articles of Indian Constitution consists the provision of the election of Legislative Assemblies of States?",
+    "correct" : 0,
+    "count" : 4
+  },
+  {
+    "options" : [
+      "Proposal in House of People with simple majority",
+      "Proposal in Legislative Assembly with simple majority",
+      "Proposal in Legislative Assembly with full majority along with law passed by Parliament",
+      "Proposal in House of People with full majority"
+    ],
+    "correct" : 2,
+    "count" : 4,
+    "question" : "What is the right method to establish or cancel the second chamber in the States?"
+  },
+  {
+    "options" : [
+      "Article 170",
+      "Article 169",
+      "Article 168",
+      "Article 167"
+    ],
+    "question" : "The provisions for creation and abolition of Legislative Councils in any State is included in Indian Constitution under ___________.",
+    "correct" : 1,
+    "count" : 4
+  },
+  {
+    "options" : [
+      "400",
+      "450",
+      "500",
+      "550"
+    ],
+    "count" : 4,
+    "correct" : 2,
+    "question" : "What can be the maximum number of members in the Legislative Assembly of a State in India?"
+  },
+  {
+    "count" : 4,
+    "question" : "Which one of the following legislative houses can be abolished?",
+    "options" : [
+      "Rajya Sabha",
+      "Vidhan Sabha",
+      "Lok Sabha",
+      "Vidhan Parishad"
+    ],
+    "correct" : 3
+  },
+  {
+    "correct" : 2,
+    "options" : [
+      "Chief Justice of High Court",
+      "State Election Commission",
+      "Election Commission of India",
+      "Governor of the State"
+    ],
+    "question" : "Who conducts the State Assembly Elections?",
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "correct" : 2,
+    "options" : [
+      "The President on the recommendation of the Governor of the State",
+      "The Parliament",
+      "The Parliament as per Resolution passed by the Legislative Assembly of the State",
+      "The Governor on the recommendation of the Council of Ministers"
+    ],
+    "question" : "In any State of India, Legislative Council can be created or can be abolished by __________."
+  },
+  {
+    "options" : [
+      "Andhra Pradesh",
+      "West Bengal",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "correct" : 3,
+    "question" : "Which state among the following has the maximum number of members in the Legislative Assembly?",
+    "count" : 4
+  },
+  {
+    "question" : "Under which one of the following Articles of the Indian Constitution, the Legislative Assembly is allowed to resolve for the creation of the Legislative Council?",
+    "correct" : 1,
+    "options" : [
+      "168",
+      "169",
+      "170",
+      "171"
+    ],
+    "count" : 4
+  },
+  {
+    "count" : 4,
+    "options" : [
+      "Governor",
+      "Speaker of the Legislative Assembly",
+      "Chief Minister",
+      "High Court"
+    ],
+    "correct" : 0,
+    "question" : "Who among the following is the final authority to decide any question relating to disqualification of a Member of a House of Legislature of a State?"
+  }
+]
